@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sample feed</title>
+    <link>https://example.com</link>
+    <description>Test feed</description>
+    <item>
+      <title>Recent &amp; HTML</title>
+      <link>https://example.com/recent</link>
+      <description>&lt;p&gt;Hello &lt;b&gt;world&lt;/b&gt; &amp;amp; co&lt;/p&gt;&lt;script&gt;evil()&lt;/script&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Old</title>
+      <link>https://example.com/old</link>
+      <description>Too old</description>
+      <pubDate>Mon, 01 Jun 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duplicate</title>
+      <link>https://example.com/recent</link>
+      <description>Same link as the first one</description>
+      <pubDate>Sun, 11 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>No date</title>
+      <link>https://example.com/nodate</link>
+      <description>No date here</description>
+    </item>
+    <item>
+      <title>No link</title>
+      <description>No link here</description>
+      <pubDate>Sun, 11 Oct 2026 10:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

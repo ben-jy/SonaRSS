@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>SonaRSS</title>
+    <link>https://github.com/ben-jy/SonaRSS</link>
+    <description>SonaRSS</description>
+    <atom:link href="https://ben-jy.github.io/SonaRSS/digest.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Oct 2026 14:22:55 +0000</lastBuildDate>
+    <item>
+      <title>AI agent makers are promising privacy — will they deliver?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.64&lt;/p&gt;&lt;p&gt;At this year&amp;#x27;s OpenAI DevDay, CEO Sam Altman unveiled the company&amp;#x27;s new AI agent Dots - and told the crowd that the company wants to &amp;quot;set a new standard for privacy in frontier AI.&amp;quot; OpenAI would spend the day taking veiled shots at Meta&amp;#x27;s Muse, its primary competitor, for failing to keep users&amp;#x27; data safe. […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots</guid>
+      <pubDate>Sat, 10 Oct 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>I expect rapid progress but not towards general superintelligence</title>
+      <link>https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards</link>
+      <description>&lt;p&gt;Interconnects AI · score 0.54&lt;/p&gt;&lt;p&gt;I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubted it.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards</guid>
+      <pubDate>Fri, 09 Oct 2026 21:33:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space</title>
+      <link>https://importai.substack.com/p/import-ai-476-creativity-and-rsi</link>
+      <description>&lt;p&gt;Import AI · score 0.50&lt;/p&gt;&lt;p&gt;Will we give robots the moon?&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://importai.substack.com/p/import-ai-476-creativity-and-rsi</guid>
+      <pubDate>Mon, 12 Oct 2026 12:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Satya Nadella says we should assume all AI models are ‘compromised’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.47&lt;/p&gt;&lt;p&gt;In a lengthy post on X, Microsoft&amp;#x27;s CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a &amp;quot;set of nested black boxes&amp;quot; whose advice and actions we simply accept or […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</guid>
+      <pubDate>Sat, 10 Oct 2026 22:10:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silicon Valley is falling in line with Trump’s attempt to rename AI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.47&lt;/p&gt;&lt;p&gt;When President Donald Trump announced his plans to rebrand artificial intelligence as &amp;quot;super intelligence,&amp;quot; you&amp;#x27;d be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley&amp;#x27;s most powerful are falling in line and trying to give Trump the great AI rebrand he […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai</guid>
+      <pubDate>Sun, 11 Oct 2026 18:33:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs</title>
+      <link>https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.46&lt;/p&gt;&lt;p&gt;Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the &amp;quot;primary AI inference system&amp;quot; for Microsoft&amp;#x27;s products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it&amp;#x27;s also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout</guid>
+      <pubDate>Mon, 12 Oct 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning to use local AI is exciting, overwhelming, and frustrating</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.40&lt;/p&gt;&lt;p&gt;I&amp;#x27;m embarking on a journey I&amp;#x27;ve so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it&amp;#x27;s increasingly possible to run powerful models locally to see what they&amp;#x27;re capable of. Is this tech so useful […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress</guid>
+      <pubDate>Sun, 11 Oct 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.38&lt;/p&gt;&lt;p&gt;&amp;quot;Staggering.&amp;quot; &amp;quot;Overwhelming.&amp;quot; &amp;quot;Unprecedented.&amp;quot; &amp;quot;Surreal.&amp;quot; &amp;quot;Pure insanity.&amp;quot; Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos</guid>
+      <pubDate>Fri, 09 Oct 2026 19:09:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic is cutting off its internal evaluations from the internet</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.37&lt;/p&gt;&lt;p&gt;After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed &amp;quot;unintended model actions,&amp;quot; including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</guid>
+      <pubDate>Sat, 10 Oct 2026 14:41:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Matthew Green</title>
+      <link>https://simonwillison.net/2026/Oct/9/matthew-green/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.36&lt;/p&gt;&lt;p&gt;Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...] The problem here is that the speed of AI producing surprises, and the speed of human beings replacing standards (even with the very best AI assistance) are just orders of magnitude different. You only recover from a surprise like this if you do the preparation in advance. — Matthew Green , on Twitter. I looked it up and…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/matthew-green/</guid>
+      <pubDate>Fri, 09 Oct 2026 15:02:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.32&lt;/p&gt;&lt;p&gt;An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip</guid>
+      <pubDate>Fri, 09 Oct 2026 21:15:38 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

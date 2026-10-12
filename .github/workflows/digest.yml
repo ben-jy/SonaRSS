@@ -1,0 +1,69 @@
+name: Digest
+
+on:
+  schedule:
+    # SCHEDULE: only edit this line (minute hour day-of-month month day-of-week, in UTC).
+    #   0 5 * * *    every day at 05:00 UTC (06:00 or 07:00 in Switzerland)  <- current
+    #   0 5 * * 1-5  Monday to Friday
+    #   0 5 * * 5    Fridays only (then raise max_age_days to ~8)
+    - cron: "0 5 * * *"
+  workflow_dispatch:  # manual run: Actions tab -> Digest -> Run workflow
+    inputs:
+      max_age_days:
+        description: "Override max_age_days (empty = value from config.yaml)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write  # needed to commit docs/digest.xml
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      # Avoids re-downloading the model (~90 MB) on every run.
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-${{ hashFiles('config.yaml') }}
+          restore-keys: hf-
+
+      # CPU torch first: the default Linux build bundles CUDA (several GB).
+      - name: Install dependencies
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -r requirements.txt
+
+      # The real config lives in the CONFIG_YAML secret (public repo, private config).
+      # Without the secret (e.g. a fork), fall back to config.example.yaml.
+      - name: Run digest
+        env:
+          CONFIG_YAML: ${{ secrets.CONFIG_YAML }}
+          MAX_AGE_DAYS: ${{ inputs.max_age_days }}
+        run: |
+          if [ -n "$CONFIG_YAML" ]; then
+            printf '%s\n' "$CONFIG_YAML" > config.yaml
+          else
+            cp config.example.yaml config.yaml
+          fi
+          args="--quiet"
+          if [ -n "$MAX_AGE_DAYS" ]; then args="$args --max-age-days $MAX_AGE_DAYS"; fi
+          python digest.py $args
+
+      - name: Commit digest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/digest.xml
+          git diff --cached --quiet || (git commit -m "Update digest" && git push)

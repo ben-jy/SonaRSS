@@ -1,0 +1,24 @@
+# Example SonaRSS configuration. Copy this file to `config.yaml` (git-ignored) and adapt it,
+# or paste your own version into the CONFIG_YAML GitHub secret (see README).
+# Only `feeds` and `references` are required; the other fields have the defaults shown here.
+
+feed_url: https://YOUR_USER.github.io/YOUR_REPO/digest.xml
+site_url: https://github.com/YOUR_USER/YOUR_REPO
+feed_title: SonaRSS
+language: en
+output: docs/digest.xml
+
+top_k: 15            # maximum number of published entries
+min_score: 0.30      # cosine similarity threshold (to calibrate)
+# Time window: ~3 for a daily schedule, ~8 for a weekly one.
+max_age_days: 3
+model: all-MiniLM-L6-v2
+
+feeds:
+  - https://simonwillison.net/atom/everything/
+  - https://huggingface.co/blog/feed.xml
+
+# Sentences (in English) describing your interests.
+references:
+  - Practical tools and workflows for using large language models.
+  - Open-source machine learning libraries and models.

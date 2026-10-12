@@ -1,0 +1,6 @@
+feedparser
+feedgen
+PyYAML
+numpy
+sentence-transformers
+pytest
