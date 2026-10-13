@@ -43,7 +43,7 @@ To calibrate `min_score`, each entry shows its score ("Source · score 0.64") an
 
 ## Change the schedule
 
-Edit the single `cron:` line in [.github/workflows/digest.yml](.github/workflows/digest.yml) (UTC). Examples are in the file: daily (default, `0 5 * * *`), weekdays (`0 5 * * 1-5`), weekly (`0 5 * * 5`). Then adjust `max_age_days` (about 3 daily, 8 weekly). An article may show up in several consecutive digests; readers dedupe on the link.
+Edit the single `cron:` line in [.github/workflows/digest.yml](.github/workflows/digest.yml) (UTC). Examples are in the file: daily (default, `23 5 * * *`), weekdays (`23 5 * * 1-5`), weekly (`23 5 * * 5`). Avoid round minutes like `:00`, where GitHub often delays or skips scheduled runs. Then adjust `max_age_days` (about 3 daily, 8 weekly). An article may show up in several consecutive digests; readers dedupe on the link.
 
 ## Run on demand
 

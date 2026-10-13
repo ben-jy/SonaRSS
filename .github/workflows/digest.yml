@@ -3,10 +3,11 @@ name: Digest
 on:
   schedule:
     # SCHEDULE: only edit this line (minute hour day-of-month month day-of-week, in UTC).
-    #   0 5 * * *    every day at 05:00 UTC (06:00 or 07:00 in Switzerland)  <- current
-    #   0 5 * * 1-5  Monday to Friday
-    #   0 5 * * 5    Fridays only (then raise max_age_days to ~8)
-    - cron: "0 5 * * *"
+    #   23 5 * * *   every day at 05:23 UTC (06:23 or 07:23 in Switzerland)  <- current
+    #   23 5 * * 1-5 Monday to Friday
+    #   23 5 * * 5   Fridays only (then raise max_age_days to ~8)
+    # Avoid round minutes (e.g. :00): GitHub delays or skips scheduled runs at peak times.
+    - cron: "23 5 * * *"
   workflow_dispatch:  # manual run: Actions tab -> Digest -> Run workflow
     inputs:
       max_age_days:
