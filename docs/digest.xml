@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 10:21:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:05:49 +0000</lastBuildDate>
     <item>
-      <title>Epic shifts to ‘AI-accelerated development’ for upcoming Disney game</title>
-      <link>https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.48&lt;/p&gt;&lt;p&gt;Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project&amp;#x27;s developers have been given an &amp;quot;AI-first&amp;quot; mandate directing them to use tools like Anthropic&amp;#x27;s Claude more to finish the game. According […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art</guid>
-      <pubDate>Tue, 13 Oct 2026 15:12:59 +0000</pubDate>
+      <title>The AI race is back on</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.69&lt;/p&gt;&lt;p&gt;Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on</guid>
+      <pubDate>Wed, 14 Oct 2026 19:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI is mass decompiling games. That's both awesome and scary.</title>
+      <link>https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.53&lt;/p&gt;&lt;p&gt;AI is mass decompiling games. That&amp;#x27;s both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a browser using WebAssembly). I like how this piece captures both the positives and the negatives of this new development: Most people already realized the scary part by now. If AI can decompile games and software, then the entire tech industry is about to explode. Anybody can decompil…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</guid>
+      <pubDate>Wed, 14 Oct 2026 16:26:53 +0000</pubDate>
     </item>
     <item>
       <title>FETALFusion: Resolution-Aware State-Space Modeling for Multi-Domain Fetal Head Segmentation</title>
@@ -24,6 +31,27 @@
       <pubDate>Tue, 13 Oct 2026 08:35:30 +0000</pubDate>
     </item>
     <item>
+      <title>McKinsey is making job applicants spar with a fake AI client</title>
+      <link>https://www.theverge.com/news/1011654/mckinsey-ai-client-interview</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;Consulting firm McKinsey &amp;amp; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation &amp;quot;aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,&amp;quot; the […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/news/1011654/mckinsey-ai-client-interview</guid>
+      <pubDate>Wed, 14 Oct 2026 22:53:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Now that Character.AI is going bankrupt, what happens to all of its users’ data?</title>
+      <link>https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.41&lt;/p&gt;&lt;p&gt;New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI&amp;#x27;s bankruptcy case &amp;quot;to put all parties on notice of the regulatory issues that […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</guid>
+      <pubDate>Wed, 14 Oct 2026 18:47:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI claims an ex-employee took its product plans and presented them to Apple</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.41&lt;/p&gt;&lt;p&gt;OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president of the company&amp;#x27;s operations in Asia. The […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans</guid>
+      <pubDate>Wed, 14 Oct 2026 16:43:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Quoting Geoffrey Huntley</title>
       <link>https://simonwillison.net/2026/Oct/13/geoffrey-huntley/</link>
       <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.39&lt;/p&gt;&lt;p&gt;If the agent isn&amp;#x27;t using my diagnostics library, I could introspect and update AGENTS.md, but there&amp;#x27;s still a delta, and it&amp;#x27;ll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling the agent to use the diagnostics library. All of a sudden it&amp;#x27;s ten out of ten. — Geoffrey Huntley , nobody should type code by hand anymore. here&amp;#x27;s what&amp;#x27;s left. Tags: coding-agents , generative-ai , git , agentic-engineering , ai , geoffrey-huntley , llms&lt;/p&gt;</description>
@@ -31,25 +59,25 @@
       <pubDate>Tue, 13 Oct 2026 13:32:00 +0000</pubDate>
     </item>
     <item>
-      <title>Google finally releases Gemini 4 Argon</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.38&lt;/p&gt;&lt;p&gt;After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers &amp;quot;frontier reasoning and improved performance across complex workflows,&amp;quot; while cutting down on hedging, repetition, and the cliches that […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon</guid>
-      <pubDate>Tue, 13 Oct 2026 16:00:00 +0000</pubDate>
+      <title>Continual pretraining Prostate MRI ViT Encoder for task alignment</title>
+      <link>https://arxiv.org/abs/2610.20217v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.39&lt;/p&gt;&lt;p&gt;Building foundation models for MRI has emerged as a promising direction for advancing medical image analysis and improving accessibility of task specific models. Existing approaches primarily focus on effective pretraining strategies and evaluating their performance across diverse downstream tasks. While these methods show performance gains, limited attention has been given to understanding task alignment between pretraining and downstream objectives. Unlike language models, where the two stages are naturally aligned, such alignment is less evident in vision based applications. Motivated by t…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.20217v1</guid>
+      <pubDate>Wed, 14 Oct 2026 13:57:23 +0000</pubDate>
     </item>
     <item>
-      <title>Shopify opens its catalog up to more AI agents</title>
-      <link>https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.37&lt;/p&gt;&lt;p&gt;More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company&amp;#x27;s agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify&amp;#x27;s catalog. (The catalog consists […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</guid>
-      <pubDate>Tue, 13 Oct 2026 19:42:42 +0000</pubDate>
+      <title>Microsoft has a new machine learning tool to improve weather forecasts</title>
+      <link>https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.38&lt;/p&gt;&lt;p&gt;Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they&amp;#x27;ve found a new, cost-effective way to make more accurate weather forecasts two to six weeks in advance - allowing farmers and emergency responders […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft</guid>
+      <pubDate>Wed, 14 Oct 2026 16:05:21 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI employee arrested for allegedly planting a bug in a conference room</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.36&lt;/p&gt;&lt;p&gt;An OpenAI engineer was arrested after the company said it discovered a &amp;quot;sophisticated recording device&amp;quot; hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</guid>
-      <pubDate>Tue, 13 Oct 2026 20:45:25 +0000</pubDate>
+      <title>YouTube sticks new labels on AI-generated songs</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.37&lt;/p&gt;&lt;p&gt;YouTube is adding a &amp;quot;Made with AI&amp;quot; label to tracks that were &amp;quot;altered or fully generated&amp;quot; using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn&amp;#x27;t sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label</guid>
+      <pubDate>Wed, 14 Oct 2026 18:22:56 +0000</pubDate>
     </item>
     <item>
       <title>Registration is a Representation Problem: Solving Whole-Body PET/CT Registration</title>
@@ -59,11 +87,25 @@
       <pubDate>Tue, 13 Oct 2026 17:45:34 +0000</pubDate>
     </item>
     <item>
-      <title>Google makes it easier to launch your vibe-coded apps</title>
-      <link>https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.32&lt;/p&gt;&lt;p&gt;The next time you vibe-code a custom app with Google&amp;#x27;s AI Studio, you won&amp;#x27;t have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to vibe-code […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch</guid>
-      <pubDate>Tue, 13 Oct 2026 17:00:00 +0000</pubDate>
+      <title>Android is using AI to suss out scammers in Google Messages</title>
+      <link>https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.32&lt;/p&gt;&lt;p&gt;Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new &amp;quot;enhanced protection&amp;quot; setting will be rolling out in the coming weeks that taps into cloud-based […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages</guid>
+      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eight states sue OpenAI, saying ChatGPT isn’t safe for kids</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.32&lt;/p&gt;&lt;p&gt;OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</guid>
+      <pubDate>Wed, 14 Oct 2026 21:11:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Square’s new kiosk lets you talk to AI for help with your order</title>
+      <link>https://www.theverge.com/tech/1009086/square-kiosk</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.31&lt;/p&gt;&lt;p&gt;Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It&amp;#x27;s called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an &amp;quot;agentic, conversational voice layer&amp;quot; that &amp;quot;fully understands a seller&amp;#x27;s menu and listens and responds in real […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1009086/square-kiosk</guid>
+      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
