@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 10:05:49 +0000</lastBuildDate>
-    <item>
-      <title>The AI race is back on</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.69&lt;/p&gt;&lt;p&gt;Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on</guid>
-      <pubDate>Wed, 14 Oct 2026 19:06:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 09:57:35 +0000</lastBuildDate>
     <item>
       <title>AI is mass decompiling games. That's both awesome and scary.</title>
       <link>https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</link>
@@ -24,32 +17,25 @@
       <pubDate>Wed, 14 Oct 2026 16:26:53 +0000</pubDate>
     </item>
     <item>
-      <title>FETALFusion: Resolution-Aware State-Space Modeling for Multi-Domain Fetal Head Segmentation</title>
-      <link>https://arxiv.org/abs/2610.17951v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.45&lt;/p&gt;&lt;p&gt;Head circumference (HC) measured from 2D ultrasound is a routine marker of fetal growth, and automating it needs segmentations whose boundaries hold up on individual scans, not only on average. We present FETALFusion, a dual-path CNN-Mamba encoder-decoder for fetal head segmentation across acquisition types. It applies four-directional state-space scans only at the two highest-resolution stages, routes bottleneck features through domain-specific channel gates that are averaged at test time, and adds a weak landmark shape prior. We train jointly on transabdominal (HC-18) and transperineal (PSF…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.17951v1</guid>
-      <pubDate>Tue, 13 Oct 2026 08:35:30 +0000</pubDate>
+      <title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
+      <link>https://huggingface.co/blog/meta-muse-spark-open</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.49&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/meta-muse-spark-open</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>McKinsey is making job applicants spar with a fake AI client</title>
-      <link>https://www.theverge.com/news/1011654/mckinsey-ai-client-interview</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;Consulting firm McKinsey &amp;amp; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation &amp;quot;aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,&amp;quot; the […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/news/1011654/mckinsey-ai-client-interview</guid>
-      <pubDate>Wed, 14 Oct 2026 22:53:31 +0000</pubDate>
+      <title>Bluesky’s AI tool now lets you make games and apps to share on social</title>
+      <link>https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.44&lt;/p&gt;&lt;p&gt;Bluesky&amp;#x27;s Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make &amp;quot;small&amp;quot; social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps</guid>
+      <pubDate>Thu, 15 Oct 2026 19:57:16 +0000</pubDate>
     </item>
     <item>
-      <title>Now that Character.AI is going bankrupt, what happens to all of its users’ data?</title>
-      <link>https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.41&lt;/p&gt;&lt;p&gt;New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI&amp;#x27;s bankruptcy case &amp;quot;to put all parties on notice of the regulatory issues that […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</guid>
-      <pubDate>Wed, 14 Oct 2026 18:47:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI claims an ex-employee took its product plans and presented them to Apple</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.41&lt;/p&gt;&lt;p&gt;OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president of the company&amp;#x27;s operations in Asia. The […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans</guid>
-      <pubDate>Wed, 14 Oct 2026 16:43:24 +0000</pubDate>
+      <title>Friends don’t let friends feed their data to AI agents</title>
+      <link>https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.42&lt;/p&gt;&lt;p&gt;There&amp;#x27;s a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of &amp;quot;AI personal assistants&amp;quot; like Meta&amp;#x27;s Muse, you&amp;#x27;re being cheerfully asked not just to give up your own data, but also […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent</guid>
+      <pubDate>Thu, 15 Oct 2026 16:21:45 +0000</pubDate>
     </item>
     <item>
       <title>Quoting Geoffrey Huntley</title>
@@ -66,18 +52,11 @@
       <pubDate>Wed, 14 Oct 2026 13:57:23 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft has a new machine learning tool to improve weather forecasts</title>
-      <link>https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.38&lt;/p&gt;&lt;p&gt;Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they&amp;#x27;ve found a new, cost-effective way to make more accurate weather forecasts two to six weeks in advance - allowing farmers and emergency responders […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft</guid>
-      <pubDate>Wed, 14 Oct 2026 16:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>YouTube sticks new labels on AI-generated songs</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.37&lt;/p&gt;&lt;p&gt;YouTube is adding a &amp;quot;Made with AI&amp;quot; label to tracks that were &amp;quot;altered or fully generated&amp;quot; using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn&amp;#x27;t sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label</guid>
-      <pubDate>Wed, 14 Oct 2026 18:22:56 +0000</pubDate>
+      <title>The tech backlash is now in theaters</title>
+      <link>https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.35&lt;/p&gt;&lt;p&gt;Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin&amp;#x27;s The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society. Nathan Fielder and Lance Oppenheim&amp;#x27;s You Can […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial</guid>
+      <pubDate>Thu, 15 Oct 2026 21:39:52 +0000</pubDate>
     </item>
     <item>
       <title>Registration is a Representation Problem: Solving Whole-Body PET/CT Registration</title>
@@ -87,25 +66,32 @@
       <pubDate>Tue, 13 Oct 2026 17:45:34 +0000</pubDate>
     </item>
     <item>
-      <title>Android is using AI to suss out scammers in Google Messages</title>
-      <link>https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.32&lt;/p&gt;&lt;p&gt;Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new &amp;quot;enhanced protection&amp;quot; setting will be rolling out in the coming weeks that taps into cloud-based […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages</guid>
-      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
+      <title>Trump posts AI-edited photo to brag about White House restoration work</title>
+      <link>https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a &amp;quot;restored&amp;quot; one, has several discrepancies and was flagged by Google&amp;#x27;s AI detector as &amp;quot;made or […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column</guid>
+      <pubDate>Thu, 15 Oct 2026 21:09:33 +0000</pubDate>
     </item>
     <item>
-      <title>Eight states sue OpenAI, saying ChatGPT isn’t safe for kids</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.32&lt;/p&gt;&lt;p&gt;OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</guid>
-      <pubDate>Wed, 14 Oct 2026 21:11:28 +0000</pubDate>
+      <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
+      <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.33&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
+      <pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
     </item>
     <item>
-      <title>Square’s new kiosk lets you talk to AI for help with your order</title>
-      <link>https://www.theverge.com/tech/1009086/square-kiosk</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.31&lt;/p&gt;&lt;p&gt;Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It&amp;#x27;s called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an &amp;quot;agentic, conversational voice layer&amp;quot; that &amp;quot;fully understands a seller&amp;#x27;s menu and listens and responds in real […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1009086/square-kiosk</guid>
-      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
+      <title>Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</title>
+      <link>https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.31&lt;/p&gt;&lt;p&gt;Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase &amp;quot;told investors&amp;quot; appears four times in this FT article, which reports on Anthropic&amp;#x27;s day of hosting investors on Wednesday. Lots of details in here from &amp;quot; people with knowledge of the matter &amp;quot;. Key things I learned from the article: Q1 revenue (Jan/Feb/Mar) was &amp;quot;about $4.8bn&amp;quot; Q2 (Apr/May/Jun) was $11.5bn Q3 (Jul/Aug/Sep) was $16.8bn In Q3: $1.70 in revenue for every $1 spent on &amp;quot;computing power&amp;quot; Adjusted operating margins (excluding stock-based compensation) were 11% This point about distillation is w…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/</guid>
+      <pubDate>Thu, 15 Oct 2026 13:04:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.30&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
+      <pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
