@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 09:57:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 09:30:11 +0000</lastBuildDate>
     <item>
       <title>AI is mass decompiling games. That's both awesome and scary.</title>
       <link>https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</link>
@@ -22,6 +22,13 @@
       <description>&lt;p&gt;Hugging Face - Blog · score 0.49&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://huggingface.co/blog/meta-muse-spark-open</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta’s new terms may allow it to train AI on news sites for free</title>
+      <link>https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.44&lt;/p&gt;&lt;p&gt;Meta&amp;#x27;s new terms appear to give it permission to crawl and scrape websites &amp;quot;associated&amp;quot; with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to &amp;quot;develop, improve, research,&amp;quot; and &amp;quot;train&amp;quot; […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</guid>
+      <pubDate>Fri, 16 Oct 2026 14:02:40 +0000</pubDate>
     </item>
     <item>
       <title>Bluesky’s AI tool now lets you make games and apps to share on social</title>
@@ -38,13 +45,6 @@
       <pubDate>Thu, 15 Oct 2026 16:21:45 +0000</pubDate>
     </item>
     <item>
-      <title>Quoting Geoffrey Huntley</title>
-      <link>https://simonwillison.net/2026/Oct/13/geoffrey-huntley/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.39&lt;/p&gt;&lt;p&gt;If the agent isn&amp;#x27;t using my diagnostics library, I could introspect and update AGENTS.md, but there&amp;#x27;s still a delta, and it&amp;#x27;ll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling the agent to use the diagnostics library. All of a sudden it&amp;#x27;s ten out of ten. — Geoffrey Huntley , nobody should type code by hand anymore. here&amp;#x27;s what&amp;#x27;s left. Tags: coding-agents , generative-ai , git , agentic-engineering , ai , geoffrey-huntley , llms&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/13/geoffrey-huntley/</guid>
-      <pubDate>Tue, 13 Oct 2026 13:32:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Continual pretraining Prostate MRI ViT Encoder for task alignment</title>
       <link>https://arxiv.org/abs/2610.20217v1</link>
       <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.39&lt;/p&gt;&lt;p&gt;Building foundation models for MRI has emerged as a promising direction for advancing medical image analysis and improving accessibility of task specific models. Existing approaches primarily focus on effective pretraining strategies and evaluating their performance across diverse downstream tasks. While these methods show performance gains, limited attention has been given to understanding task alignment between pretraining and downstream objectives. Unlike language models, where the two stages are naturally aligned, such alignment is less evident in vision based applications. Motivated by t…&lt;/p&gt;</description>
@@ -57,13 +57,6 @@
       <description>&lt;p&gt;AI | The Verge · score 0.35&lt;/p&gt;&lt;p&gt;Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin&amp;#x27;s The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society. Nathan Fielder and Lance Oppenheim&amp;#x27;s You Can […]&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial</guid>
       <pubDate>Thu, 15 Oct 2026 21:39:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Registration is a Representation Problem: Solving Whole-Body PET/CT Registration</title>
-      <link>https://arxiv.org/abs/2610.18804v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.35&lt;/p&gt;&lt;p&gt;Raw image intensities are a poor surrogate for similarity across images in correspondence problems. Further, while auxiliary segmentation labels can provide semantic identification and improve matching, they can assign only coarse identities to fine-grained anatomy and often cover only a subset of structures, particularly in whole-body settings. We present an approach that instead establishes correspondence using complementary representations of anatomy and demonstrate its utility for longitudinal whole-body PET/CT registration in the Learn2Reg 2026 PSMAReg Challenge. Our 3D foundation model,…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.18804v1</guid>
-      <pubDate>Tue, 13 Oct 2026 17:45:34 +0000</pubDate>
     </item>
     <item>
       <title>Trump posts AI-edited photo to brag about White House restoration work</title>
