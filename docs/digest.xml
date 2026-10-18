@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 09:30:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:44:04 +0000</lastBuildDate>
     <item>
-      <title>AI is mass decompiling games. That's both awesome and scary.</title>
-      <link>https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.53&lt;/p&gt;&lt;p&gt;AI is mass decompiling games. That&amp;#x27;s both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a browser using WebAssembly). I like how this piece captures both the positives and the negatives of this new development: Most people already realized the scary part by now. If AI can decompile games and software, then the entire tech industry is about to explode. Anybody can decompil…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</guid>
-      <pubDate>Wed, 14 Oct 2026 16:26:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
-      <link>https://huggingface.co/blog/meta-muse-spark-open</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.49&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/meta-muse-spark-open</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Websites are closing their doors to AI agents</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.69&lt;/p&gt;&lt;p&gt;Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won&amp;#x27;t play nice? In recent weeks, […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</guid>
+      <pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Meta’s new terms may allow it to train AI on news sites for free</title>
@@ -36,20 +29,6 @@
       <description>&lt;p&gt;AI | The Verge · score 0.44&lt;/p&gt;&lt;p&gt;Bluesky&amp;#x27;s Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make &amp;quot;small&amp;quot; social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said […]&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps</guid>
       <pubDate>Thu, 15 Oct 2026 19:57:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friends don’t let friends feed their data to AI agents</title>
-      <link>https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.42&lt;/p&gt;&lt;p&gt;There&amp;#x27;s a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of &amp;quot;AI personal assistants&amp;quot; like Meta&amp;#x27;s Muse, you&amp;#x27;re being cheerfully asked not just to give up your own data, but also […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent</guid>
-      <pubDate>Thu, 15 Oct 2026 16:21:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Continual pretraining Prostate MRI ViT Encoder for task alignment</title>
-      <link>https://arxiv.org/abs/2610.20217v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.39&lt;/p&gt;&lt;p&gt;Building foundation models for MRI has emerged as a promising direction for advancing medical image analysis and improving accessibility of task specific models. Existing approaches primarily focus on effective pretraining strategies and evaluating their performance across diverse downstream tasks. While these methods show performance gains, limited attention has been given to understanding task alignment between pretraining and downstream objectives. Unlike language models, where the two stages are naturally aligned, such alignment is less evident in vision based applications. Motivated by t…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.20217v1</guid>
-      <pubDate>Wed, 14 Oct 2026 13:57:23 +0000</pubDate>
     </item>
     <item>
       <title>The tech backlash is now in theaters</title>
