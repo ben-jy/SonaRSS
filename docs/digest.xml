@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 09:44:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:56:58 +0000</lastBuildDate>
     <item>
       <title>Websites are closing their doors to AI agents</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
@@ -24,46 +24,18 @@
       <pubDate>Fri, 16 Oct 2026 14:02:40 +0000</pubDate>
     </item>
     <item>
-      <title>Bluesky’s AI tool now lets you make games and apps to share on social</title>
-      <link>https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.44&lt;/p&gt;&lt;p&gt;Bluesky&amp;#x27;s Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make &amp;quot;small&amp;quot; social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps</guid>
-      <pubDate>Thu, 15 Oct 2026 19:57:16 +0000</pubDate>
+      <title>llm-echo 0.5</title>
+      <link>https://simonwillison.net/2026/Oct/18/llm-echo/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.36&lt;/p&gt;&lt;p&gt;Release: llm-echo 0.5 I&amp;#x27;m working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a &amp;quot;model&amp;quot; which doesn&amp;#x27;t involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage: uvx --with llm-echo llm -m echo &amp;#x27;hi there&amp;#x27; -o thinking 1 --usage Outputs: First I consider the prompt, then I decide what to say. { &amp;quot;prompt&amp;quot;: &amp;quot;hi there&amp;quot;, &amp;quot;system&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;attachments&amp;quot;: [], &amp;quot;stream&amp;quot;: tr…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/18/llm-echo/</guid>
+      <pubDate>Sun, 18 Oct 2026 23:16:16 +0000</pubDate>
     </item>
     <item>
-      <title>The tech backlash is now in theaters</title>
-      <link>https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.35&lt;/p&gt;&lt;p&gt;Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin&amp;#x27;s The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society. Nathan Fielder and Lance Oppenheim&amp;#x27;s You Can […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial</guid>
-      <pubDate>Thu, 15 Oct 2026 21:39:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump posts AI-edited photo to brag about White House restoration work</title>
-      <link>https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a &amp;quot;restored&amp;quot; one, has several discrepancies and was flagged by Google&amp;#x27;s AI detector as &amp;quot;made or […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column</guid>
-      <pubDate>Thu, 15 Oct 2026 21:09:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
-      <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.33&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
-      <pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</title>
-      <link>https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.31&lt;/p&gt;&lt;p&gt;Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase &amp;quot;told investors&amp;quot; appears four times in this FT article, which reports on Anthropic&amp;#x27;s day of hosting investors on Wednesday. Lots of details in here from &amp;quot; people with knowledge of the matter &amp;quot;. Key things I learned from the article: Q1 revenue (Jan/Feb/Mar) was &amp;quot;about $4.8bn&amp;quot; Q2 (Apr/May/Jun) was $11.5bn Q3 (Jul/Aug/Sep) was $16.8bn In Q3: $1.70 in revenue for every $1 spent on &amp;quot;computing power&amp;quot; Adjusted operating margins (excluding stock-based compensation) were 11% This point about distillation is w…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/</guid>
-      <pubDate>Thu, 15 Oct 2026 13:04:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.30&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
-      <pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
+      <title>llm-tools-datasette 0.1.1</title>
+      <link>https://simonwillison.net/2026/Oct/18/llm-tools-datasette/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.34&lt;/p&gt;&lt;p&gt;Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/18/llm-tools-datasette/</guid>
+      <pubDate>Sun, 18 Oct 2026 23:43:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
