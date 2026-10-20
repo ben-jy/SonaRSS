@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 10:56:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:11:57 +0000</lastBuildDate>
     <item>
       <title>Websites are closing their doors to AI agents</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
@@ -17,11 +17,46 @@
       <pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Meta’s new terms may allow it to train AI on news sites for free</title>
-      <link>https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.44&lt;/p&gt;&lt;p&gt;Meta&amp;#x27;s new terms appear to give it permission to crawl and scrape websites &amp;quot;associated&amp;quot; with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to &amp;quot;develop, improve, research,&amp;quot; and &amp;quot;train&amp;quot; […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</guid>
-      <pubDate>Fri, 16 Oct 2026 14:02:40 +0000</pubDate>
+      <title>MoWE: Spatially Adaptive Mixture-of-Wavelet-Experts Pooling for Ultrasound Lesion Segmentation</title>
+      <link>https://arxiv.org/abs/2610.25074v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.59&lt;/p&gt;&lt;p&gt;We present Mixture-of-Wavelet-Experts (MoWE), a spatially adaptive routing mechanism that replaces max-pooling and strided convolutions in U-Net architectures for ultrasound lesion segmentation. Standard pooling operations suppress high-frequency spatial details, including potential boundary cues in speckled regions. Recent frequency-domain methods preserve some of these details, but a single wavelet family applies the same spectral bias across the image. MoWE instead uses a context-aware router to assign local regions to fixed wavelet families according to local texture and global feature co…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.25074v1</guid>
+      <pubDate>Sun, 18 Oct 2026 07:29:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>A hacker broke into John Deere and SharkNinja with an army of AI agents</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.45&lt;/p&gt;&lt;p&gt;A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn&amp;#x27;t name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</guid>
+      <pubDate>Mon, 19 Oct 2026 13:58:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>CoreWeave’s debt is becoming the whole AI industry’s problem</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they&amp;#x27;d get from government bonds. Last Tuesady Chamath &amp;quot;SPAC King&amp;quot; Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</guid>
+      <pubDate>Mon, 19 Oct 2026 21:28:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Democrats think cracking down on AI could give them an edge</title>
+      <link>https://www.theverge.com/policy/1013113/democrats-ai-midterms</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;Democrats could win back control of Congress this November, and if they do, they&amp;#x27;ll need to decide how to approach one of the country&amp;#x27;s newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1013113/democrats-ai-midterms</guid>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes</title>
+      <link>https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.40&lt;/p&gt;&lt;p&gt;Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws</guid>
+      <pubDate>Mon, 19 Oct 2026 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SlimFormer++: Token Mixing Where It Matters for Efficient 3D Medical Image Segmentation</title>
+      <link>https://arxiv.org/abs/2610.25488v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.40&lt;/p&gt;&lt;p&gt;To determine where computation is needed in volumetric segmentation networks, we analyze block-level redundancy and stage-wise token-mixer contribution. Centered Kernel Alignment reveals high input-output representational similarity within blocks of representative convolutional, hybrid, and Transformer-style segmentation networks. Similarity-guided pruning reduces their parameter counts by 39-75% while decreasing mean Dice by less than 0.4 percentage points. To examine token mixers within blocks, we introduce Anatomical Relation Distortion, which quantifies how bypassing a mixer distorts feat…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.25488v1</guid>
+      <pubDate>Sun, 18 Oct 2026 19:19:08 +0000</pubDate>
     </item>
     <item>
       <title>llm-echo 0.5</title>
@@ -29,6 +64,13 @@
       <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.36&lt;/p&gt;&lt;p&gt;Release: llm-echo 0.5 I&amp;#x27;m working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a &amp;quot;model&amp;quot; which doesn&amp;#x27;t involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage: uvx --with llm-echo llm -m echo &amp;#x27;hi there&amp;#x27; -o thinking 1 --usage Outputs: First I consider the prompt, then I decide what to say. { &amp;quot;prompt&amp;quot;: &amp;quot;hi there&amp;quot;, &amp;quot;system&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;attachments&amp;quot;: [], &amp;quot;stream&amp;quot;: tr…&lt;/p&gt;</description>
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/18/llm-echo/</guid>
       <pubDate>Sun, 18 Oct 2026 23:16:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>My obituary for programming</title>
+      <link>https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.34&lt;/p&gt;&lt;p&gt;My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more you got paid. But even pretty simple puzzles were worth a lot of money because regular people just couldn&amp;#x27;t do it! No, they needed us. They would give us a problem and we would solve it the way we wanted. We set the strategy, we made the timeline, we defined what was and was not…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/</guid>
+      <pubDate>Mon, 19 Oct 2026 23:58:25 +0000</pubDate>
     </item>
     <item>
       <title>llm-tools-datasette 0.1.1</title>
