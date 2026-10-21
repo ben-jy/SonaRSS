@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 10:11:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:19:42 +0000</lastBuildDate>
     <item>
-      <title>Websites are closing their doors to AI agents</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.69&lt;/p&gt;&lt;p&gt;Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won&amp;#x27;t play nice? In recent weeks, […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</guid>
-      <pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MoWE: Spatially Adaptive Mixture-of-Wavelet-Experts Pooling for Ultrasound Lesion Segmentation</title>
-      <link>https://arxiv.org/abs/2610.25074v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.59&lt;/p&gt;&lt;p&gt;We present Mixture-of-Wavelet-Experts (MoWE), a spatially adaptive routing mechanism that replaces max-pooling and strided convolutions in U-Net architectures for ultrasound lesion segmentation. Standard pooling operations suppress high-frequency spatial details, including potential boundary cues in speckled regions. Recent frequency-domain methods preserve some of these details, but a single wavelet family applies the same spectral bias across the image. MoWE instead uses a context-aware router to assign local regions to fixed wavelet families according to local texture and global feature co…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.25074v1</guid>
-      <pubDate>Sun, 18 Oct 2026 07:29:52 +0000</pubDate>
+      <title>Convergent Performance, Divergent Mechanisms in LoRA-Adapted Vision Foundation Models for Brain MRI</title>
+      <link>https://arxiv.org/abs/2610.28255v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.48&lt;/p&gt;&lt;p&gt;Adapting Vision Foundation Models (VFMs) to medical imaging via LoRA has become standard practice, yet model selection is guided almost entirely by downstream task metrics, treating backbones with similar performance as interchangeable. We investigate whether equal performance implies equal internal representational shift. We analyse four ViT-B/16 backbones, DINOv3, SigLIP2, MerMED-FM, and BiomedCLIP, pre-trained with different objectives (self-distillation vs. contrastive vision-language) and on different data domains (natural vs. medical images). We adapt each to brain tumour segmentation a…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.28255v1</guid>
+      <pubDate>Tue, 20 Oct 2026 14:12:44 +0000</pubDate>
     </item>
     <item>
       <title>A hacker broke into John Deere and SharkNinja with an army of AI agents</title>
@@ -33,7 +26,7 @@
     <item>
       <title>CoreWeave’s debt is becoming the whole AI industry’s problem</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they&amp;#x27;d get from government bonds. Last Tuesady Chamath &amp;quot;SPAC King&amp;quot; Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they&amp;#x27;d get from government bonds. Last Tuesday Chamath &amp;quot;SPAC King&amp;quot; Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</guid>
       <pubDate>Mon, 19 Oct 2026 21:28:20 +0000</pubDate>
     </item>
@@ -66,6 +59,13 @@
       <pubDate>Sun, 18 Oct 2026 23:16:16 +0000</pubDate>
     </item>
     <item>
+      <title>AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms</title>
+      <link>https://huggingface.co/blog/anylanguagemodel-1-0</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.36&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/anylanguagemodel-1-0</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>My obituary for programming</title>
       <link>https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/</link>
       <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.34&lt;/p&gt;&lt;p&gt;My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more you got paid. But even pretty simple puzzles were worth a lot of money because regular people just couldn&amp;#x27;t do it! No, they needed us. They would give us a problem and we would solve it the way we wanted. We set the strategy, we made the timeline, we defined what was and was not…&lt;/p&gt;</description>
@@ -73,11 +73,32 @@
       <pubDate>Mon, 19 Oct 2026 23:58:25 +0000</pubDate>
     </item>
     <item>
+      <title>Google’s more personalized Gemini AI is heading to your car</title>
+      <link>https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you&amp;#x27;re driving […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto</guid>
+      <pubDate>Tue, 20 Oct 2026 22:11:34 +0000</pubDate>
+    </item>
+    <item>
       <title>llm-tools-datasette 0.1.1</title>
       <link>https://simonwillison.net/2026/Oct/18/llm-tools-datasette/</link>
       <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.34&lt;/p&gt;&lt;p&gt;Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm&lt;/p&gt;</description>
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/18/llm-tools-datasette/</guid>
       <pubDate>Sun, 18 Oct 2026 23:43:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
+      <link>https://huggingface.co/blog/allenai/fairstress</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.32&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/allenai/fairstress</guid>
+      <pubDate>Tue, 20 Oct 2026 16:09:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spotify pulled 50 million AI slop and spam tracks from its recommendations</title>
+      <link>https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.30&lt;/p&gt;&lt;p&gt;Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That&amp;#x27;s according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. &amp;quot;Our editors hold the same standard and […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed</guid>
+      <pubDate>Tue, 20 Oct 2026 14:18:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
