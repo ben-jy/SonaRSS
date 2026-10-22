@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 10:19:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:20:24 +0000</lastBuildDate>
+    <item>
+      <title>Walmart is inviting AI agents to shop for you</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.49&lt;/p&gt;&lt;p&gt;Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents</guid>
+      <pubDate>Wed, 21 Oct 2026 19:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Convergent Performance, Divergent Mechanisms in LoRA-Adapted Vision Foundation Models for Brain MRI</title>
       <link>https://arxiv.org/abs/2610.28255v1</link>
@@ -17,46 +24,46 @@
       <pubDate>Tue, 20 Oct 2026 14:12:44 +0000</pubDate>
     </item>
     <item>
-      <title>A hacker broke into John Deere and SharkNinja with an army of AI agents</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.45&lt;/p&gt;&lt;p&gt;A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn&amp;#x27;t name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</guid>
-      <pubDate>Mon, 19 Oct 2026 13:58:41 +0000</pubDate>
+      <title>Anthropic takes on Muse with Claude Duet, its new AI agent</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.44&lt;/p&gt;&lt;p&gt;Anthropic just announced an AI agent competitor to Meta&amp;#x27;s Muse and OpenAI&amp;#x27;s Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a &amp;quot;research preview,&amp;quot; according to Anthropic, and it&amp;#x27;s available as a standalone app on iOS and Android and through Claude on the web. The AI agent is […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent</guid>
+      <pubDate>Wed, 21 Oct 2026 19:53:20 +0000</pubDate>
     </item>
     <item>
-      <title>CoreWeave’s debt is becoming the whole AI industry’s problem</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they&amp;#x27;d get from government bonds. Last Tuesday Chamath &amp;quot;SPAC King&amp;quot; Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</guid>
-      <pubDate>Mon, 19 Oct 2026 21:28:20 +0000</pubDate>
+      <title>OpenAI says an AI agent lied about disabling its safety monitoring system</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. &amp;quot;The reference didn&amp;#x27;t configure a monitor, and Astra decided that was reason […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</guid>
+      <pubDate>Wed, 21 Oct 2026 13:57:43 +0000</pubDate>
     </item>
     <item>
-      <title>Democrats think cracking down on AI could give them an edge</title>
-      <link>https://www.theverge.com/policy/1013113/democrats-ai-midterms</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;Democrats could win back control of Congress this November, and if they do, they&amp;#x27;ll need to decide how to approach one of the country&amp;#x27;s newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1013113/democrats-ai-midterms</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+      <title>Meta to create a new class of shares to fund AI push</title>
+      <link>https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.42&lt;/p&gt;&lt;p&gt;Meta says it&amp;#x27;s issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. &amp;quot;The scale of investment required to compete, sustain growth, expand infrastructure, […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings</guid>
+      <pubDate>Wed, 21 Oct 2026 21:30:02 +0000</pubDate>
     </item>
     <item>
-      <title>JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes</title>
-      <link>https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.40&lt;/p&gt;&lt;p&gt;Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws</guid>
-      <pubDate>Mon, 19 Oct 2026 14:30:00 +0000</pubDate>
+      <title>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
+      <link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.40&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</guid>
+      <pubDate>Wed, 21 Oct 2026 17:35:36 +0000</pubDate>
     </item>
     <item>
-      <title>SlimFormer++: Token Mixing Where It Matters for Efficient 3D Medical Image Segmentation</title>
-      <link>https://arxiv.org/abs/2610.25488v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.40&lt;/p&gt;&lt;p&gt;To determine where computation is needed in volumetric segmentation networks, we analyze block-level redundancy and stage-wise token-mixer contribution. Centered Kernel Alignment reveals high input-output representational similarity within blocks of representative convolutional, hybrid, and Transformer-style segmentation networks. Similarity-guided pruning reduces their parameter counts by 39-75% while decreasing mean Dice by less than 0.4 percentage points. To examine token mixers within blocks, we introduce Anatomical Relation Distortion, which quantifies how bypassing a mixer distorts feat…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.25488v1</guid>
-      <pubDate>Sun, 18 Oct 2026 19:19:08 +0000</pubDate>
+      <title>Data centers could erase decades of air quality gains</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.40&lt;/p&gt;&lt;p&gt;A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report</guid>
+      <pubDate>Wed, 21 Oct 2026 22:33:44 +0000</pubDate>
     </item>
     <item>
-      <title>llm-echo 0.5</title>
-      <link>https://simonwillison.net/2026/Oct/18/llm-echo/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.36&lt;/p&gt;&lt;p&gt;Release: llm-echo 0.5 I&amp;#x27;m working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a &amp;quot;model&amp;quot; which doesn&amp;#x27;t involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage: uvx --with llm-echo llm -m echo &amp;#x27;hi there&amp;#x27; -o thinking 1 --usage Outputs: First I consider the prompt, then I decide what to say. { &amp;quot;prompt&amp;quot;: &amp;quot;hi there&amp;quot;, &amp;quot;system&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;attachments&amp;quot;: [], &amp;quot;stream&amp;quot;: tr…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/18/llm-echo/</guid>
-      <pubDate>Sun, 18 Oct 2026 23:16:16 +0000</pubDate>
+      <title>Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-speech-5</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.38&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-speech-5</guid>
+      <pubDate>Wed, 21 Oct 2026 14:58:18 +0000</pubDate>
     </item>
     <item>
       <title>AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms</title>
@@ -78,13 +85,6 @@
       <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you&amp;#x27;re driving […]&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto</guid>
       <pubDate>Tue, 20 Oct 2026 22:11:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>llm-tools-datasette 0.1.1</title>
-      <link>https://simonwillison.net/2026/Oct/18/llm-tools-datasette/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.34&lt;/p&gt;&lt;p&gt;Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/18/llm-tools-datasette/</guid>
-      <pubDate>Sun, 18 Oct 2026 23:43:09 +0000</pubDate>
     </item>
     <item>
       <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
