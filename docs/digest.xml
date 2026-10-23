@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 10:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:14:25 +0000</lastBuildDate>
     <item>
-      <title>Walmart is inviting AI agents to shop for you</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.49&lt;/p&gt;&lt;p&gt;Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents</guid>
-      <pubDate>Wed, 21 Oct 2026 19:30:00 +0000</pubDate>
+      <title>CVP-BAA: Efficiently Adapting Segment Anything Model for Medical Image Segmentation</title>
+      <link>https://arxiv.org/abs/2610.30672v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.58&lt;/p&gt;&lt;p&gt;Various task-specific medical segmentation models have demonstrated strong performance, their heavy reliance on extensive annotations and highly specialized architectures limits their versatility, scalability, and clinical applicability. Recently, adapting vision foundation models, particularly the segment anything model (SAM), has emerged as a promising alternative. However, prevalent parameter-efficient fine-tuning (PEFT) strategies, such as prompt tuning and adapter tuning, often lack an explicit mechanism to embed local structural priors into the long-range dependency modeling of vision t…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.30672v1</guid>
+      <pubDate>Thu, 22 Oct 2026 03:35:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI, Anthropic, and Nvidia had record lobbying quarters</title>
+      <link>https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.54&lt;/p&gt;&lt;p&gt;It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic&amp;#x27;s $2.1 million and OpenAI&amp;#x27;s $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records</guid>
+      <pubDate>Thu, 22 Oct 2026 15:50:30 +0000</pubDate>
     </item>
     <item>
       <title>Convergent Performance, Divergent Mechanisms in LoRA-Adapted Vision Foundation Models for Brain MRI</title>
@@ -24,25 +31,32 @@
       <pubDate>Tue, 20 Oct 2026 14:12:44 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic takes on Muse with Claude Duet, its new AI agent</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.44&lt;/p&gt;&lt;p&gt;Anthropic just announced an AI agent competitor to Meta&amp;#x27;s Muse and OpenAI&amp;#x27;s Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a &amp;quot;research preview,&amp;quot; according to Anthropic, and it&amp;#x27;s available as a standalone app on iOS and Android and through Claude on the web. The AI agent is […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent</guid>
-      <pubDate>Wed, 21 Oct 2026 19:53:20 +0000</pubDate>
+      <title>Quoting Armin Ronacher</title>
+      <link>https://simonwillison.net/2026/Oct/22/armin-ronacher/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.47&lt;/p&gt;&lt;p&gt;As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/22/armin-ronacher/</guid>
+      <pubDate>Thu, 22 Oct 2026 15:34:13 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI says an AI agent lied about disabling its safety monitoring system</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. &amp;quot;The reference didn&amp;#x27;t configure a monitor, and Astra decided that was reason […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</guid>
-      <pubDate>Wed, 21 Oct 2026 13:57:43 +0000</pubDate>
+      <title>Donating Agent Skills to the Agentic AI Foundation</title>
+      <link>https://simonwillison.net/2026/Oct/22/donating-agent-skills/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.46&lt;/p&gt;&lt;p&gt;Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I&amp;#x27;m pleased to note I called this one last December , when Anthropic first declared skills to be an &amp;quot;open standard&amp;quot;: I wouldn&amp;#x27;t be surprised to see this end up in the AAIF , recently the new home of the MCP specification. Fun…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/22/donating-agent-skills/</guid>
+      <pubDate>Thu, 22 Oct 2026 18:09:56 +0000</pubDate>
     </item>
     <item>
-      <title>Meta to create a new class of shares to fund AI push</title>
-      <link>https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.42&lt;/p&gt;&lt;p&gt;Meta says it&amp;#x27;s issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. &amp;quot;The scale of investment required to compete, sustain growth, expand infrastructure, […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings</guid>
-      <pubDate>Wed, 21 Oct 2026 21:30:02 +0000</pubDate>
+      <title>Microsoft says its AI tool is better than doctors at diagnosing conditions</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.46&lt;/p&gt;&lt;p&gt;For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now &amp;quot;it is finally here,&amp;quot; Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence</guid>
+      <pubDate>Thu, 22 Oct 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Meta’s version of the future, I’ll have my Muse call your Muse</title>
+      <link>https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.41&lt;/p&gt;&lt;p&gt;Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people&amp;#x27;s AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network</guid>
+      <pubDate>Thu, 22 Oct 2026 18:15:00 +0000</pubDate>
     </item>
     <item>
       <title>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
@@ -52,11 +66,11 @@
       <pubDate>Wed, 21 Oct 2026 17:35:36 +0000</pubDate>
     </item>
     <item>
-      <title>Data centers could erase decades of air quality gains</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.40&lt;/p&gt;&lt;p&gt;A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report</guid>
-      <pubDate>Wed, 21 Oct 2026 22:33:44 +0000</pubDate>
+      <title>Canva’s first AI image model plans designs before generating them</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.38&lt;/p&gt;&lt;p&gt;Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for &amp;quot;greater precision, consistency and control,&amp;quot; according to an […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model</guid>
+      <pubDate>Thu, 22 Oct 2026 21:51:25 +0000</pubDate>
     </item>
     <item>
       <title>Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster</title>
@@ -66,39 +80,25 @@
       <pubDate>Wed, 21 Oct 2026 14:58:18 +0000</pubDate>
     </item>
     <item>
-      <title>AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms</title>
-      <link>https://huggingface.co/blog/anylanguagemodel-1-0</link>
+      <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
+      <link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
       <description>&lt;p&gt;Hugging Face - Blog · score 0.36&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/anylanguagemodel-1-0</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
+      <pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
     </item>
     <item>
-      <title>My obituary for programming</title>
-      <link>https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.34&lt;/p&gt;&lt;p&gt;My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more you got paid. But even pretty simple puzzles were worth a lot of money because regular people just couldn&amp;#x27;t do it! No, they needed us. They would give us a problem and we would solve it the way we wanted. We set the strategy, we made the timeline, we defined what was and was not…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/</guid>
-      <pubDate>Mon, 19 Oct 2026 23:58:25 +0000</pubDate>
+      <title>Meta’s AI could still scrape news sites, legal experts say</title>
+      <link>https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.36&lt;/p&gt;&lt;p&gt;Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren&amp;#x27;t enough to address their concerns. &amp;quot;This does nothing to restrict the &amp;#x27;associated with your products or services&amp;#x27; [language] that would let Meta scrape […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</guid>
+      <pubDate>Thu, 22 Oct 2026 20:32:05 +0000</pubDate>
     </item>
     <item>
-      <title>Google’s more personalized Gemini AI is heading to your car</title>
-      <link>https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you&amp;#x27;re driving […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto</guid>
-      <pubDate>Tue, 20 Oct 2026 22:11:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
-      <link>https://huggingface.co/blog/allenai/fairstress</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.32&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/allenai/fairstress</guid>
-      <pubDate>Tue, 20 Oct 2026 16:09:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spotify pulled 50 million AI slop and spam tracks from its recommendations</title>
-      <link>https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.30&lt;/p&gt;&lt;p&gt;Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That&amp;#x27;s according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. &amp;quot;Our editors hold the same standard and […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed</guid>
-      <pubDate>Tue, 20 Oct 2026 14:18:37 +0000</pubDate>
+      <title>Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’</title>
+      <link>https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.31&lt;/p&gt;&lt;p&gt;Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It&amp;#x27;s a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion</guid>
+      <pubDate>Thu, 22 Oct 2026 16:16:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
