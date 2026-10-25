@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 09:38:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:56:19 +0000</lastBuildDate>
     <item>
       <title>OpenAI now trains its frontier AI models with no internet access</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</link>
       <description>&lt;p&gt;AI | The Verge · score 0.59&lt;/p&gt;&lt;p&gt;OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content &amp;quot;without risk of affecting external systems.&amp;quot; OpenAI paused training its frontier […]&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</guid>
       <pubDate>Fri, 23 Oct 2026 21:11:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVP-BAA: Efficiently Adapting Segment Anything Model for Medical Image Segmentation</title>
-      <link>https://arxiv.org/abs/2610.30672v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.58&lt;/p&gt;&lt;p&gt;Various task-specific medical segmentation models have demonstrated strong performance, their heavy reliance on extensive annotations and highly specialized architectures limits their versatility, scalability, and clinical applicability. Recently, adapting vision foundation models, particularly the segment anything model (SAM), has emerged as a promising alternative. However, prevalent parameter-efficient fine-tuning (PEFT) strategies, such as prompt tuning and adapter tuning, often lack an explicit mechanism to embed local structural priors into the long-range dependency modeling of vision t…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.30672v1</guid>
-      <pubDate>Thu, 22 Oct 2026 03:35:59 +0000</pubDate>
     </item>
     <item>
       <title>Quoting Armin Ronacher</title>
@@ -38,13 +31,6 @@
       <pubDate>Thu, 22 Oct 2026 18:09:56 +0000</pubDate>
     </item>
     <item>
-      <title>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
-      <link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.40&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</guid>
-      <pubDate>Wed, 21 Oct 2026 17:35:36 +0000</pubDate>
-    </item>
-    <item>
       <title>Retro gaming is being overrun with AI</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</link>
       <description>&lt;p&gt;AI | The Verge · score 0.39&lt;/p&gt;&lt;p&gt;Retro video games are everywhere lately - especially in places where they aren&amp;#x27;t supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […]&lt;/p&gt;</description>
@@ -59,11 +45,11 @@
       <pubDate>Thu, 22 Oct 2026 21:51:25 +0000</pubDate>
     </item>
     <item>
-      <title>Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster</title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-speech-5</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.38&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-speech-5</guid>
-      <pubDate>Wed, 21 Oct 2026 14:58:18 +0000</pubDate>
+      <title>Building Reasoning Models from the Ground Up: A Full Video Course</title>
+      <link>https://magazine.sebastianraschka.com/p/building-reasoning-models</link>
+      <description>&lt;p&gt;Ahead of AI · score 0.36&lt;/p&gt;&lt;p&gt;Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://magazine.sebastianraschka.com/p/building-reasoning-models</guid>
+      <pubDate>Sat, 24 Oct 2026 11:14:32 +0000</pubDate>
     </item>
     <item>
       <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
@@ -80,11 +66,25 @@
       <pubDate>Thu, 22 Oct 2026 20:32:05 +0000</pubDate>
     </item>
     <item>
+      <title>Blue Planet III is keeping the rough edges in the age of AI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.35&lt;/p&gt;&lt;p&gt;BBC&amp;#x27;s Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</guid>
+      <pubDate>Sat, 24 Oct 2026 21:29:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Now Google says it might use your Gmail and Google Photos data to target ads</title>
       <link>https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</link>
       <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;Google has updated its privacy policy in a way that could mean you&amp;#x27;ll start seeing targeted ads based on your personal data if you&amp;#x27;re using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</guid>
       <pubDate>Fri, 23 Oct 2026 16:52:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pennsylvania will require labels on AI-generated ads</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.33&lt;/p&gt;&lt;p&gt;On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it&amp;#x27;s a still image, video, audio, or text - that &amp;quot;has been significantly modified or generated by artificial intelligence&amp;quot; to include a label in the same format as […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act</guid>
+      <pubDate>Sat, 24 Oct 2026 18:32:21 +0000</pubDate>
     </item>
     <item>
       <title>Meta delays new business terms after publisher pushback on AI scraping</title>
