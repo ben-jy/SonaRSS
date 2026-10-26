@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 09:56:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 11:17:45 +0000</lastBuildDate>
     <item>
       <title>OpenAI now trains its frontier AI models with no internet access</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</link>
@@ -17,18 +17,18 @@
       <pubDate>Fri, 23 Oct 2026 21:11:07 +0000</pubDate>
     </item>
     <item>
-      <title>Quoting Armin Ronacher</title>
-      <link>https://simonwillison.net/2026/Oct/22/armin-ronacher/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.47&lt;/p&gt;&lt;p&gt;As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/22/armin-ronacher/</guid>
-      <pubDate>Thu, 22 Oct 2026 15:34:13 +0000</pubDate>
+      <title>r/opensource just banned AI, non-English speakers, and more</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.57&lt;/p&gt;&lt;p&gt;The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, &amp;quot;If your project uses AI, is made by AI, or is intended for AI, it&amp;#x27;s not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</guid>
+      <pubDate>Sun, 25 Oct 2026 13:25:32 +0000</pubDate>
     </item>
     <item>
-      <title>Donating Agent Skills to the Agentic AI Foundation</title>
-      <link>https://simonwillison.net/2026/Oct/22/donating-agent-skills/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.46&lt;/p&gt;&lt;p&gt;Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I&amp;#x27;m pleased to note I called this one last December , when Anthropic first declared skills to be an &amp;quot;open standard&amp;quot;: I wouldn&amp;#x27;t be surprised to see this end up in the AAIF , recently the new home of the MCP specification. Fun…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/22/donating-agent-skills/</guid>
-      <pubDate>Thu, 22 Oct 2026 18:09:56 +0000</pubDate>
+      <title>Google’s AI search changes upended online publishing</title>
+      <link>https://www.theverge.com/column/1017983/google-ai-search-online-publishing</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.47&lt;/p&gt;&lt;p&gt;This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI&amp;#x27;s impact on the web, follow Emma Roth. The Stepback arrives in our subscribers&amp;#x27; inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/column/1017983/google-ai-search-online-publishing</guid>
+      <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Retro gaming is being overrun with AI</title>
@@ -38,13 +38,6 @@
       <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Canva’s first AI image model plans designs before generating them</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.38&lt;/p&gt;&lt;p&gt;Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for &amp;quot;greater precision, consistency and control,&amp;quot; according to an […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model</guid>
-      <pubDate>Thu, 22 Oct 2026 21:51:25 +0000</pubDate>
-    </item>
-    <item>
       <title>Building Reasoning Models from the Ground Up: A Full Video Course</title>
       <link>https://magazine.sebastianraschka.com/p/building-reasoning-models</link>
       <description>&lt;p&gt;Ahead of AI · score 0.36&lt;/p&gt;&lt;p&gt;Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.&lt;/p&gt;</description>
@@ -52,18 +45,11 @@
       <pubDate>Sat, 24 Oct 2026 11:14:32 +0000</pubDate>
     </item>
     <item>
-      <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
-      <link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.36&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
-      <pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta’s AI could still scrape news sites, legal experts say</title>
-      <link>https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.36&lt;/p&gt;&lt;p&gt;Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren&amp;#x27;t enough to address their concerns. &amp;quot;This does nothing to restrict the &amp;#x27;associated with your products or services&amp;#x27; [language] that would let Meta scrape […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</guid>
-      <pubDate>Thu, 22 Oct 2026 20:32:05 +0000</pubDate>
+      <title>Quantum Machine Learning in Medical Imaging: A Primer for Radiologists</title>
+      <link>https://arxiv.org/abs/2610.32762v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.35&lt;/p&gt;&lt;p&gt;Deep learning has transformed radiology, but the computational cost of training and deploying modern models is outpacing what classical hardware can support. Quantum computing has been proposed as one response to this bottleneck: an n-qubit system can represent $2^n$ states simultaneously, although practical speedups require efficient algorithms, data encoding, and measurement strategies rather than superposition alone. This review introduces radiologists to five core quantum concepts, qubits, superposition, entanglement, quantum gates, and quantum circuits, and to the superconducting, trappe…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.32762v1</guid>
+      <pubDate>Fri, 23 Oct 2026 15:04:34 +0000</pubDate>
     </item>
     <item>
       <title>Blue Planet III is keeping the rough edges in the age of AI</title>
