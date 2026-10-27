@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 11:17:45 +0000</lastBuildDate>
-    <item>
-      <title>OpenAI now trains its frontier AI models with no internet access</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.59&lt;/p&gt;&lt;p&gt;OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content &amp;quot;without risk of affecting external systems.&amp;quot; OpenAI paused training its frontier […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</guid>
-      <pubDate>Fri, 23 Oct 2026 21:11:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 10:42:53 +0000</lastBuildDate>
     <item>
       <title>r/opensource just banned AI, non-English speakers, and more</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</link>
@@ -24,18 +17,53 @@
       <pubDate>Sun, 25 Oct 2026 13:25:32 +0000</pubDate>
     </item>
     <item>
-      <title>Google’s AI search changes upended online publishing</title>
-      <link>https://www.theverge.com/column/1017983/google-ai-search-online-publishing</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.47&lt;/p&gt;&lt;p&gt;This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI&amp;#x27;s impact on the web, follow Emma Roth. The Stepback arrives in our subscribers&amp;#x27; inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/column/1017983/google-ai-search-online-publishing</guid>
-      <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+      <title>Can AI help solve the COBOL code crisis?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.56&lt;/p&gt;&lt;p&gt;What do the IRS, banks, airlines, and government infrastructure around the world have in common? They&amp;#x27;re all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted &amp;quot;substantial improvements&amp;quot; in its latest AI models&amp;#x27; […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic</guid>
+      <pubDate>Mon, 26 Oct 2026 13:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>Retro gaming is being overrun with AI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.39&lt;/p&gt;&lt;p&gt;Retro video games are everywhere lately - especially in places where they aren&amp;#x27;t supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+      <title>Semantic-Aware Deformable Feature Alignment for Thyroid Nodule Segmentation in Ultrasound</title>
+      <link>https://arxiv.org/abs/2610.34244v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.51&lt;/p&gt;&lt;p&gt;Accurate segmentation of thyroid nodules in ultrasound images is essential for clinical diagnosis yet remains challenging due to boundary ambiguity, speckle noise, and complex geometric variability. Existing methods often fail to reconcile global semantic understanding with precise local boundary delineation, leading to errors in irregular cases. To address this, we propose SDFA-Net, a framework built on semantic-aware deformable feature alignment that explicitly decouples the learning of robust global semantics and detailed local geometry. Our approach integrates three main components: a clu…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.34244v1</guid>
+      <pubDate>Sun, 25 Oct 2026 12:17:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI announces three big science discoveries and a new way to work with academics</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.50&lt;/p&gt;&lt;p&gt;Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more &amp;quot;major&amp;quot; discoveries in math, computer science, and physics. What&amp;#x27;s different this time is the choice to have external experts that OpenAI describes as &amp;quot;shepherds&amp;quot; guiding the results in […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics</guid>
+      <pubDate>Mon, 26 Oct 2026 23:34:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.47&lt;/p&gt;&lt;p&gt;Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol &amp;quot;ANT.&amp;quot; The AI company confidentially filed with the SEC […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec</guid>
+      <pubDate>Mon, 26 Oct 2026 13:32:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Jason Koebler</title>
+      <link>https://simonwillison.net/2026/Oct/26/jason-koebler/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.38&lt;/p&gt;&lt;p&gt;Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support problems that they have discovered something journalistically notable and that 404 Media, specifically, can help them. — Jason Koebler , ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems Tags: jason-koebler , openai , journalism , ai , llms , ai-ethics , ai-misuse , generative-ai , chatgpt…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/jason-koebler/</guid>
+      <pubDate>Mon, 26 Oct 2026 19:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic is burning gas to feed the AI boom</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.38&lt;/p&gt;&lt;p&gt;As it prepares to go public, Anthropic&amp;#x27;s S-1 filing makes generative AI&amp;#x27;s methane dependency glaringly obvious. &amp;quot;Competition for access to electrical supply and data center locations with adequate power availability is intense.&amp;quot; In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on &amp;quot;natural gas&amp;quot; […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk</guid>
+      <pubDate>Mon, 26 Oct 2026 21:45:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>The RealReal won’t let AI agents hog designer clothing</title>
+      <link>https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.37&lt;/p&gt;&lt;p&gt;The RealReal, a secondhand luxury fashion consignment retailer, said it&amp;#x27;s updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal&amp;#x27;s item reserve system. On the retailer&amp;#x27;s website, […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal</guid>
+      <pubDate>Mon, 26 Oct 2026 17:30:55 +0000</pubDate>
     </item>
     <item>
       <title>Building Reasoning Models from the Ground Up: A Full Video Course</title>
@@ -45,39 +73,18 @@
       <pubDate>Sat, 24 Oct 2026 11:14:32 +0000</pubDate>
     </item>
     <item>
-      <title>Quantum Machine Learning in Medical Imaging: A Primer for Radiologists</title>
-      <link>https://arxiv.org/abs/2610.32762v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.35&lt;/p&gt;&lt;p&gt;Deep learning has transformed radiology, but the computational cost of training and deploying modern models is outpacing what classical hardware can support. Quantum computing has been proposed as one response to this bottleneck: an n-qubit system can represent $2^n$ states simultaneously, although practical speedups require efficient algorithms, data encoding, and measurement strategies rather than superposition alone. This review introduces radiologists to five core quantum concepts, qubits, superposition, entanglement, quantum gates, and quantum circuits, and to the superconducting, trappe…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.32762v1</guid>
-      <pubDate>Fri, 23 Oct 2026 15:04:34 +0000</pubDate>
+      <title>Kevin Roose is AGI-pilled. Why aren’t you?</title>
+      <link>https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.35&lt;/p&gt;&lt;p&gt;Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic</guid>
+      <pubDate>Mon, 26 Oct 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Blue Planet III is keeping the rough edges in the age of AI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.35&lt;/p&gt;&lt;p&gt;BBC&amp;#x27;s Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</guid>
-      <pubDate>Sat, 24 Oct 2026 21:29:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Now Google says it might use your Gmail and Google Photos data to target ads</title>
-      <link>https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;Google has updated its privacy policy in a way that could mean you&amp;#x27;ll start seeing targeted ads based on your personal data if you&amp;#x27;re using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</guid>
-      <pubDate>Fri, 23 Oct 2026 16:52:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pennsylvania will require labels on AI-generated ads</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.33&lt;/p&gt;&lt;p&gt;On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it&amp;#x27;s a still image, video, audio, or text - that &amp;quot;has been significantly modified or generated by artificial intelligence&amp;quot; to include a label in the same format as […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act</guid>
-      <pubDate>Sat, 24 Oct 2026 18:32:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta delays new business terms after publisher pushback on AI scraping</title>
-      <link>https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.31&lt;/p&gt;&lt;p&gt;Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th &amp;quot;to allow […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</guid>
-      <pubDate>Fri, 23 Oct 2026 14:47:41 +0000</pubDate>
+      <title>GPT-6.1 Terra</title>
+      <link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.32&lt;/p&gt;&lt;p&gt;GPT-6.1 Terra It&amp;#x27;s always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting proposals and interpreting technical drawings to filling out forms and editing videos. Terra sits i…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/gpt-61-terra/</guid>
+      <pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
