@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 05:28:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:29:25 +0000</lastBuildDate>
     <item>
       <title>Build specialized multimodal models with LFM3</title>
       <link>https://huggingface.co/blog/LiquidAI/lfm3</link>
@@ -17,11 +17,11 @@
       <pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
     </item>
     <item>
-      <title>Researchers are getting tired of OpenAI gatekeeping its breakthroughs</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.57&lt;/p&gt;&lt;p&gt;On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company&amp;#x27;s antics. It has been a turbulent few months between OpenAI […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics</guid>
-      <pubDate>Tue, 27 Oct 2026 20:48:58 +0000</pubDate>
+      <title>AI has come for Arizona’s water</title>
+      <link>https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.55&lt;/p&gt;&lt;p&gt;A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc</guid>
+      <pubDate>Thu, 29 Oct 2026 10:00:04 +0000</pubDate>
     </item>
     <item>
       <title>Quoting Terk Terkowitz</title>
@@ -38,6 +38,27 @@
       <pubDate>Wed, 28 Oct 2026 23:05:39 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft’s AI future has fewer jobs</title>
+      <link>https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.49&lt;/p&gt;&lt;p&gt;To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft&amp;#x27;s workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad</guid>
+      <pubDate>Thu, 29 Oct 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A 211K Parameter Foundation Model: Genetic Prompting in Neural Cellular Automata</title>
+      <link>https://arxiv.org/abs/2610.38776v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.48&lt;/p&gt;&lt;p&gt;The scale of modern foundation models enables broad task generalization. In medical imaging, where segmentation demands vary widely across clinical contexts, such flexibility is invaluable. But current models, such as SAM trade adaptability for scale, locking their utility behind high-end infrastructure and leaving behind the low-resource environments most in need of diagnostic support. To bridge this gap, we introduce Foundational-NCA, a lightweight foundation model capable of adapting to a wide range of medical segmentation tasks without retraining. Built on Neural Cellular Automata (NCA),…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.38776v1</guid>
+      <pubDate>Wed, 28 Oct 2026 19:50:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
+      <link>https://huggingface.co/blog/announcing-project-protostar</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.46&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/announcing-project-protostar</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Artificial Analysis v5 and the benchmarker's dilemma</title>
       <link>https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers</link>
       <description>&lt;p&gt;Interconnects AI · score 0.44&lt;/p&gt;&lt;p&gt;A sort of review of the benchmarking industry and what&amp;#x27;s missing.&lt;/p&gt;</description>
@@ -52,11 +73,18 @@
       <pubDate>Wed, 28 Oct 2026 20:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>Quoting Jason Koebler</title>
-      <link>https://simonwillison.net/2026/Oct/26/jason-koebler/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.38&lt;/p&gt;&lt;p&gt;Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support problems that they have discovered something journalistically notable and that 404 Media, specifically, can help them. — Jason Koebler , ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems Tags: jason-koebler , openai , journalism , ai , llms , ai-ethics , ai-misuse , generative-ai , chatgpt…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/jason-koebler/</guid>
-      <pubDate>Mon, 26 Oct 2026 19:00:25 +0000</pubDate>
+      <title>DINOv2 for PET: A Pre-Training Domain Benchmark Across Classification, Segmentation, and Prognosis</title>
+      <link>https://arxiv.org/abs/2610.40018v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.41&lt;/p&gt;&lt;p&gt;DINO (self-DIstillation with NO labels) has become a stan- dard for self-supervised pre-training, producing features that generalise across datasets and downstream tasks. In medical imaging it has been adopted mainly for radiology (X-ray, CT and MRI), where even natural- image DINO features transfer well. In the literature, these features have been reported to transfer worse to functional imaging such as PET. Yet PET-specific DINO models have barely been introduced, and even less validated across multiple tasks and datasets. We present PET-DINOv2-2D, the first DINOv2 model pre-trained on 2D P…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.40018v1</guid>
+      <pubDate>Thu, 29 Oct 2026 13:30:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>API credits benefit for eligible ChatGPT subscriptions</title>
+      <link>https://simonwillison.net/2026/Oct/29/api-credits/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.39&lt;/p&gt;&lt;p&gt;API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty much exactly the same deal: if you have a $100, $200, or $500 subscription plan with them you now get that same quantity of credits to apply to one of your API organizations. I maintain subscriptions with both companies, so this is great news for me! I may even ship some public-fac…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/29/api-credits/</guid>
+      <pubDate>Thu, 29 Oct 2026 22:48:29 +0000</pubDate>
     </item>
     <item>
       <title>Can we trust LLMs to judge whether a research idea is novel?</title>
@@ -66,25 +94,25 @@
       <pubDate>Tue, 27 Oct 2026 16:12:42 +0000</pubDate>
     </item>
     <item>
-      <title>Akai is embracing vibe-coded mods with an open-source MPC</title>
-      <link>https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.32&lt;/p&gt;&lt;p&gt;The MPC Sample Key isn&amp;#x27;t even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key</guid>
-      <pubDate>Wed, 28 Oct 2026 21:34:04 +0000</pubDate>
+      <title>Building a multiplayer game world with autonomous Fable-class models</title>
+      <link>https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.36&lt;/p&gt;&lt;p&gt;How I Built the Most AI-Pilled Company in the World Don&amp;#x27;t be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what&amp;#x27;s possible with agentic engineering against frontier models. Spawn is a massively multiplayer gaming environment where players can use prompts (to the in-game agent, Savi) to modify the game world. I fired it up on my phone for a few minutes and was able to prompt a castle into existence, then a dragon, then ride the dragon to fly around that castle. By Jacob&amp;#x27;s telling, Spaw…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:26 +0000</pubDate>
     </item>
     <item>
-      <title>GPT-6.1 Terra</title>
-      <link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.32&lt;/p&gt;&lt;p&gt;GPT-6.1 Terra It&amp;#x27;s always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting proposals and interpreting technical drawings to filling out forms and editing videos. Terra sits i…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/gpt-61-terra/</guid>
-      <pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
+      <title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
+      <link>https://huggingface.co/blog/anydecisionmodel</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.35&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/anydecisionmodel</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Quoting Ted Sanders</title>
-      <link>https://simonwillison.net/2026/Oct/28/ted-sanders/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.32&lt;/p&gt;&lt;p&gt;In general, LLM performance is incredibly multidimensional. There&amp;#x27;s no guarantee of a fixed ordering where the model that is best at math is also the model that&amp;#x27;s best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are bigger will (a) be more performant / reliable, (b) cost more per token, and (c) have better recall of esoteric facts. As you note, our models are ordered: Luna &amp;lt; Terra &amp;lt; Sol &amp;lt; Astra [ ... ] These days, version number signifies a few things at once: the order of release, the rela…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/28/ted-sanders/</guid>
-      <pubDate>Wed, 28 Oct 2026 23:23:21 +0000</pubDate>
+      <title>Anthropic’s business plan: Build God or die trying</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it&amp;#x27;s in the business of selling IT […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</guid>
+      <pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
