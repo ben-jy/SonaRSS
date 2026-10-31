@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 05:29:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:26:40 +0000</lastBuildDate>
     <item>
-      <title>Build specialized multimodal models with LFM3</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm3</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.61&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm3</guid>
-      <pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI has come for Arizona’s water</title>
-      <link>https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.55&lt;/p&gt;&lt;p&gt;A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc</guid>
-      <pubDate>Thu, 29 Oct 2026 10:00:04 +0000</pubDate>
+      <title>The biggest names in AI are backing a new way to opt out of scraping</title>
+      <link>https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.61&lt;/p&gt;&lt;p&gt;OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared &amp;quot;policy token&amp;quot; signal […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</guid>
+      <pubDate>Fri, 30 Oct 2026 20:26:10 +0000</pubDate>
     </item>
     <item>
       <title>Quoting Terk Terkowitz</title>
@@ -31,18 +24,11 @@
       <pubDate>Wed, 28 Oct 2026 10:09:07 +0000</pubDate>
     </item>
     <item>
-      <title>Adam Mosseri says negativity around AI is ‘going to get worse’</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.49&lt;/p&gt;&lt;p&gt;Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don&amp;#x27;t like AI, and it&amp;#x27;s not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity</guid>
-      <pubDate>Wed, 28 Oct 2026 23:05:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft’s AI future has fewer jobs</title>
-      <link>https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.49&lt;/p&gt;&lt;p&gt;To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft&amp;#x27;s workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad</guid>
-      <pubDate>Thu, 29 Oct 2026 16:00:00 +0000</pubDate>
+      <title>Wikipedia’s operator says a bad AI copyright ruling could threaten the open web</title>
+      <link>https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.48&lt;/p&gt;&lt;p&gt;The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A 211K Parameter Foundation Model: Genetic Prompting in Neural Cellular Automata</title>
@@ -50,6 +36,13 @@
       <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.48&lt;/p&gt;&lt;p&gt;The scale of modern foundation models enables broad task generalization. In medical imaging, where segmentation demands vary widely across clinical contexts, such flexibility is invaluable. But current models, such as SAM trade adaptability for scale, locking their utility behind high-end infrastructure and leaving behind the low-resource environments most in need of diagnostic support. To bridge this gap, we introduce Foundational-NCA, a lightweight foundation model capable of adapting to a wide range of medical segmentation tasks without retraining. Built on Neural Cellular Automata (NCA),…&lt;/p&gt;</description>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.38776v1</guid>
       <pubDate>Wed, 28 Oct 2026 19:50:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.47&lt;/p&gt;&lt;p&gt;After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company&amp;#x27;s stockpile of discoveries. &amp;quot;I think, on net, […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview</guid>
+      <pubDate>Fri, 30 Oct 2026 13:01:14 +0000</pubDate>
     </item>
     <item>
       <title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
@@ -66,11 +59,11 @@
       <pubDate>Wed, 28 Oct 2026 12:58:39 +0000</pubDate>
     </item>
     <item>
-      <title>Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity</title>
-      <link>https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.42&lt;/p&gt;&lt;p&gt;Google has released its latest frontier model, Gemini 4 Carbon, offering &amp;quot;significant gains&amp;quot; in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon&amp;#x27;s top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier</guid>
-      <pubDate>Wed, 28 Oct 2026 20:03:00 +0000</pubDate>
+      <title>Silicon Valley wants you to invest in miracles</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.41&lt;/p&gt;&lt;p&gt;Investing in any stock is kind of like gambling in the sense that you&amp;#x27;re betting your money on a company&amp;#x27;s future performance. But how do you bet on a technology that could, in the worst-case scenario, &amp;quot;pose catastrophic or existential risks to humanity,&amp;quot; or best case, &amp;quot;bring forth an age of miracles&amp;quot;? To some extent, […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</guid>
+      <pubDate>Fri, 30 Oct 2026 13:11:05 +0000</pubDate>
     </item>
     <item>
       <title>DINOv2 for PET: A Pre-Training Domain Benchmark Across Classification, Segmentation, and Prognosis</title>
@@ -87,11 +80,18 @@
       <pubDate>Thu, 29 Oct 2026 22:48:29 +0000</pubDate>
     </item>
     <item>
-      <title>Can we trust LLMs to judge whether a research idea is novel?</title>
-      <link>https://huggingface.co/blog/allenai/novelty-bench</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.38&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/allenai/novelty-bench</guid>
-      <pubDate>Tue, 27 Oct 2026 16:12:42 +0000</pubDate>
+      <title>Google’s satellite AI server transmits its first response to Earth</title>
+      <link>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.38&lt;/p&gt;&lt;p&gt;Google&amp;#x27;s AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite&amp;#x27;s Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</guid>
+      <pubDate>Fri, 30 Oct 2026 18:21:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sam Altman says it’s better for RAM to be in a data center than on your desk</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.37&lt;/p&gt;&lt;p&gt;Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it&amp;#x27;s &amp;quot;terrible&amp;quot; to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI&amp;#x27;s impact on math, Altman said: &amp;quot;A lot of people want […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers</guid>
+      <pubDate>Fri, 30 Oct 2026 20:48:43 +0000</pubDate>
     </item>
     <item>
       <title>Building a multiplayer game world with autonomous Fable-class models</title>
@@ -101,18 +101,18 @@
       <pubDate>Thu, 29 Oct 2026 17:00:26 +0000</pubDate>
     </item>
     <item>
+      <title>Was I wrong about open models &amp; cyber risks?</title>
+      <link>https://www.interconnects.ai/p/was-i-wrong-about-open-models-and</link>
+      <description>&lt;p&gt;Interconnects AI · score 0.35&lt;/p&gt;&lt;p&gt;Last week coined the term “Black October“ after an onslaught of critical vulnerability disclosures, including PHP2Shell and GitLab, signified the moment when the cyber risks of AI models started to materialize.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.interconnects.ai/p/was-i-wrong-about-open-models-and</guid>
+      <pubDate>Fri, 30 Oct 2026 17:36:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
       <link>https://huggingface.co/blog/anydecisionmodel</link>
       <description>&lt;p&gt;Hugging Face - Blog · score 0.35&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://huggingface.co/blog/anydecisionmodel</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic’s business plan: Build God or die trying</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it&amp;#x27;s in the business of selling IT […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</guid>
-      <pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
