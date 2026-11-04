@@ -8,13 +8,41 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 05:27:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 05:27:30 +0000</lastBuildDate>
+    <item>
+      <title>Please stop asking me when the AI bubble will pop</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.64&lt;/p&gt;&lt;p&gt;People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I&amp;#x27;ll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds</guid>
+      <pubDate>Tue, 03 Nov 2026 23:37:45 +0000</pubDate>
+    </item>
     <item>
       <title>Quoting Kyle Kingsbury</title>
       <link>https://simonwillison.net/2026/Nov/1/kyle-kingsbury/</link>
       <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.59&lt;/p&gt;&lt;p&gt;More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users? — Kyle Kingsbury , Jepsen results for ParticleDB 1.1.4 Tags: kyle-kingsbury , llms , ai , generative-ai , ai-misuse&lt;/p&gt;</description>
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/1/kyle-kingsbury/</guid>
       <pubDate>Sun, 01 Nov 2026 16:49:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peripheral prototypical contrastive loss for supervised medical image segmentation</title>
+      <link>https://arxiv.org/abs/2611.02305v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.47&lt;/p&gt;&lt;p&gt;Robust segmentation of biomedical images remains challenging primarily due to ill-defined object boundaries. Although several loss functions have recently been proposed to enhance object boundary recognition, concerns remain about the susceptibility to unstable annotations resulting from boundary ambiguities. Here, we introduce the Peripheral Prototypical Contrastive (PPC) loss, which leverages prototypical contrastive learning to improve boundary recognition and enable stable training even under noisy annotation conditions. The PPC loss utilizes prototype features obtained from local regions…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.02305v1</guid>
+      <pubDate>Sun, 01 Nov 2026 23:51:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>StateBench: Testing how language models track state changes over long documents</title>
+      <link>https://huggingface.co/blog/allenai/statebench</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.46&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/allenai/statebench</guid>
+      <pubDate>Tue, 03 Nov 2026 17:15:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI says ChatGPT is catching up to Google in search</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;In many circles, &amp;quot;Ask Chat&amp;quot; has replaced &amp;quot;Google it,&amp;quot; and that&amp;#x27;s reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI&amp;#x27;s consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search</guid>
+      <pubDate>Tue, 03 Nov 2026 18:30:42 +0000</pubDate>
     </item>
     <item>
       <title>The U.S. Census Bureau and “Super Intelligence”</title>
@@ -24,6 +52,20 @@
       <pubDate>Mon, 02 Nov 2026 13:31:26 +0000</pubDate>
     </item>
     <item>
+      <title>The biggest modding site in PC gaming is taking a stance on AI</title>
+      <link>https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare &amp;quot;whether AI has been used in their work,&amp;quot; the site announced today as part of a big post about AI-generated content on the platform. &amp;quot;One of the most consistent […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures</guid>
+      <pubDate>Wed, 04 Nov 2026 00:42:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Differentiable topology optimization for high-fidelity acoustic holography beyond the thin-element approximation</title>
+      <link>https://arxiv.org/abs/2611.04251v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.40&lt;/p&gt;&lt;p&gt;Acoustic holography in the megahertz range can impact applications from manufacturing and non-destructive testing to transcranial ultrasound. Designing lens topologies for complex holograms in the sub-megahertz to low-megahertz regime most relevant to transcranial therapy is difficult because wave propagation through an acoustically thick lens cannot be ignored. Here we show that the heterogeneous angular spectrum approach (HASA), which admits in-plane varying speed-of-sound maps and supports rapid differentiable optimization with the Adam optimizer, can generate three-dimensional lens topolo…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.04251v1</guid>
+      <pubDate>Tue, 03 Nov 2026 03:39:55 +0000</pubDate>
+    </item>
+    <item>
       <title>llm 0.37</title>
       <link>https://simonwillison.net/2026/Nov/2/llm/</link>
       <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.40&lt;/p&gt;&lt;p&gt;Release: llm 0.37 There&amp;#x27;s a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure additional models that use OpenAI-compatible endpoints. I switched the default model (if you have not set your own default) to gpt-6-luna - half the price of the previous default, gpt-5.6-luna . LLM&amp;#x27;s support for embeddings now accepts that different binary content may have different content-type - necessary for model…&lt;/p&gt;</description>
@@ -31,46 +73,32 @@
       <pubDate>Mon, 02 Nov 2026 23:49:30 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI pitches data center power plants as a way to protect nearby areas</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.38&lt;/p&gt;&lt;p&gt;In an announcement on Monday, OpenAI says it will pilot its &amp;quot;Grid Protectors Program&amp;quot; at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program</guid>
-      <pubDate>Mon, 02 Nov 2026 18:01:30 +0000</pubDate>
+      <title>Palette: teaching a small model to build decks in your design language</title>
+      <link>https://huggingface.co/blog/ibm-research/palette-deck-building</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.38&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/palette-deck-building</guid>
+      <pubDate>Tue, 03 Nov 2026 16:35:36 +0000</pubDate>
     </item>
     <item>
-      <title>The New York Times sues Brave web browser for AI scraping and bypassing paywalls</title>
-      <link>https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, the Chicago Tribune, and […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</guid>
-      <pubDate>Mon, 02 Nov 2026 17:51:19 +0000</pubDate>
+      <title>Google is entirely disabling Search in schools that don’t want AI</title>
+      <link>https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search &amp;quot;will be entirely off&amp;quot; for K-12 student accounts […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</guid>
+      <pubDate>Tue, 03 Nov 2026 17:00:04 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic clamps down on Claude’s AI video game clones</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;Anthropic has updated Claude Code&amp;#x27;s system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom&amp;#x27;s Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn&amp;#x27;t want people to […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones</guid>
-      <pubDate>Mon, 02 Nov 2026 18:56:02 +0000</pubDate>
+      <title>Netflix will show you themed recommendations through a new ‘AI Discover’ tab</title>
+      <link>https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.33&lt;/p&gt;&lt;p&gt;Netflix&amp;#x27;s TV app is getting a new &amp;quot;AI Discover&amp;quot; tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like &amp;quot;Something Light,&amp;quot; &amp;quot;Family Movie Night,&amp;quot; or &amp;quot;Quick Watches.&amp;quot; When you pick a theme, Netflix will show […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations</guid>
+      <pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>datasette-llm 0.1a9</title>
-      <link>https://simonwillison.net/2026/Oct/31/datasette-llm/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.33&lt;/p&gt;&lt;p&gt;Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here&amp;#x27;s a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db --internal internal.db Previously you would also need to specify a model with -s plugins.datasette-agent.default_model gpt-6-astra . Tags: datasette , llm , datasette-agent&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/31/datasette-llm/</guid>
-      <pubDate>Sat, 31 Oct 2026 22:10:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>I built an AI Tamagotchi before Meta could</title>
-      <link>https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.32&lt;/p&gt;&lt;p&gt;Mark Zuckerberg&amp;#x27;s Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won&amp;#x27;t be buying one, because we have Muse Charm at home. It […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code</guid>
-      <pubDate>Sat, 31 Oct 2026 16:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How We Took Over ChatGPT Accounts</title>
-      <link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.31&lt;/p&gt;&lt;p&gt;How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT&amp;#x27;s implementation of the artifacts pattern (OpenAI used to call this &amp;quot;Canvas&amp;quot; but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It&amp;#x27;s important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenAI use the MathLive JavaScript library as part of their graph support, and that library includes its…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</guid>
-      <pubDate>Sat, 31 Oct 2026 23:15:22 +0000</pubDate>
+      <title>Apple starts giving Siri AI access to third-party apps</title>
+      <link>https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.33&lt;/p&gt;&lt;p&gt;Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI&amp;#x27;s new features in &amp;quot;all apps,&amp;quot; allowing the voice assistant to draw on a user&amp;#x27;s personal context, process natural language prompts, and use on-screen awareness to […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps</guid>
+      <pubDate>Tue, 03 Nov 2026 20:16:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
