@@ -8,27 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 05:27:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:27:42 +0000</lastBuildDate>
     <item>
-      <title>Please stop asking me when the AI bubble will pop</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.64&lt;/p&gt;&lt;p&gt;People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I&amp;#x27;ll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds</guid>
-      <pubDate>Tue, 03 Nov 2026 23:37:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting Kyle Kingsbury</title>
-      <link>https://simonwillison.net/2026/Nov/1/kyle-kingsbury/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.59&lt;/p&gt;&lt;p&gt;More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users? — Kyle Kingsbury , Jepsen results for ParticleDB 1.1.4 Tags: kyle-kingsbury , llms , ai , generative-ai , ai-misuse&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/1/kyle-kingsbury/</guid>
-      <pubDate>Sun, 01 Nov 2026 16:49:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peripheral prototypical contrastive loss for supervised medical image segmentation</title>
-      <link>https://arxiv.org/abs/2611.02305v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.47&lt;/p&gt;&lt;p&gt;Robust segmentation of biomedical images remains challenging primarily due to ill-defined object boundaries. Although several loss functions have recently been proposed to enhance object boundary recognition, concerns remain about the susceptibility to unstable annotations resulting from boundary ambiguities. Here, we introduce the Peripheral Prototypical Contrastive (PPC) loss, which leverages prototypical contrastive learning to improve boundary recognition and enable stable training even under noisy annotation conditions. The PPC loss utilizes prototype features obtained from local regions…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.02305v1</guid>
-      <pubDate>Sun, 01 Nov 2026 23:51:51 +0000</pubDate>
+      <title>Google hasn’t figured out how to make AI pay like its search engine</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.52&lt;/p&gt;&lt;p&gt;Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google&amp;#x27;s Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3</guid>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>StateBench: Testing how language models track state changes over long documents</title>
@@ -38,11 +24,18 @@
       <pubDate>Tue, 03 Nov 2026 17:15:21 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI says ChatGPT is catching up to Google in search</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;In many circles, &amp;quot;Ask Chat&amp;quot; has replaced &amp;quot;Google it,&amp;quot; and that&amp;#x27;s reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI&amp;#x27;s consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search</guid>
-      <pubDate>Tue, 03 Nov 2026 18:30:42 +0000</pubDate>
+      <title>Nothing teases a screen-free AI device ahead of launch next month</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.46&lt;/p&gt;&lt;p&gt;Nothing CEO Carl Pei said in a post on X that the company&amp;#x27;s launching its first AI device in December. That&amp;#x27;s just a little over a year after Pei announced plans for &amp;quot;AI-native&amp;quot; devices and an AI operating system. He didn&amp;#x27;t give away much about what exactly the new device is, only that one feature […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei</guid>
+      <pubDate>Wed, 04 Nov 2026 18:26:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>llm 0.37.1</title>
+      <link>https://simonwillison.net/2026/Nov/3/llm/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.43&lt;/p&gt;&lt;p&gt;Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/llm/</guid>
+      <pubDate>Tue, 03 Nov 2026 21:41:42 +0000</pubDate>
     </item>
     <item>
       <title>The U.S. Census Bureau and “Super Intelligence”</title>
@@ -52,18 +45,18 @@
       <pubDate>Mon, 02 Nov 2026 13:31:26 +0000</pubDate>
     </item>
     <item>
-      <title>The biggest modding site in PC gaming is taking a stance on AI</title>
-      <link>https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare &amp;quot;whether AI has been used in their work,&amp;quot; the site announced today as part of a big post about AI-generated content on the platform. &amp;quot;One of the most consistent […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures</guid>
-      <pubDate>Wed, 04 Nov 2026 00:42:10 +0000</pubDate>
+      <title>How big is the open model economy today?</title>
+      <link>https://www.interconnects.ai/p/how-well-can-we-measure-open-model</link>
+      <description>&lt;p&gt;Interconnects AI · score 0.42&lt;/p&gt;&lt;p&gt;Our first open model economy research note for paid subscribers.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.interconnects.ai/p/how-well-can-we-measure-open-model</guid>
+      <pubDate>Wed, 04 Nov 2026 16:35:44 +0000</pubDate>
     </item>
     <item>
-      <title>Differentiable topology optimization for high-fidelity acoustic holography beyond the thin-element approximation</title>
-      <link>https://arxiv.org/abs/2611.04251v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.40&lt;/p&gt;&lt;p&gt;Acoustic holography in the megahertz range can impact applications from manufacturing and non-destructive testing to transcranial ultrasound. Designing lens topologies for complex holograms in the sub-megahertz to low-megahertz regime most relevant to transcranial therapy is difficult because wave propagation through an acoustically thick lens cannot be ignored. Here we show that the heterogeneous angular spectrum approach (HASA), which admits in-plane varying speed-of-sound maps and supports rapid differentiable optimization with the Adam optimizer, can generate three-dimensional lens topolo…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.04251v1</guid>
-      <pubDate>Tue, 03 Nov 2026 03:39:55 +0000</pubDate>
+      <title>datasette-llm 0.1a10</title>
+      <link>https://simonwillison.net/2026/Nov/4/datasette-llm/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.41&lt;/p&gt;&lt;p&gt;Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/4/datasette-llm/</guid>
+      <pubDate>Wed, 04 Nov 2026 15:26:02 +0000</pubDate>
     </item>
     <item>
       <title>llm 0.37</title>
@@ -73,6 +66,13 @@
       <pubDate>Mon, 02 Nov 2026 23:49:30 +0000</pubDate>
     </item>
     <item>
+      <title>Uber only fulfilled 4 rides from AI agents last quarter</title>
+      <link>https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.39&lt;/p&gt;&lt;p&gt;AI agents won&amp;#x27;t be stealing Uber&amp;#x27;s lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording &amp;quot;around 500&amp;quot; during […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation</guid>
+      <pubDate>Wed, 04 Nov 2026 15:58:45 +0000</pubDate>
+    </item>
+    <item>
       <title>Palette: teaching a small model to build decks in your design language</title>
       <link>https://huggingface.co/blog/ibm-research/palette-deck-building</link>
       <description>&lt;p&gt;Hugging Face - Blog · score 0.38&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
@@ -80,25 +80,32 @@
       <pubDate>Tue, 03 Nov 2026 16:35:36 +0000</pubDate>
     </item>
     <item>
-      <title>Google is entirely disabling Search in schools that don’t want AI</title>
-      <link>https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search &amp;quot;will be entirely off&amp;quot; for K-12 student accounts […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</guid>
-      <pubDate>Tue, 03 Nov 2026 17:00:04 +0000</pubDate>
+      <title>Data centers lost the midterms</title>
+      <link>https://www.theverge.com/policy/1026365/data-centers-midterms-results</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.36&lt;/p&gt;&lt;p&gt;Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1026365/data-centers-midterms-results</guid>
+      <pubDate>Wed, 04 Nov 2026 16:05:39 +0000</pubDate>
     </item>
     <item>
-      <title>Netflix will show you themed recommendations through a new ‘AI Discover’ tab</title>
-      <link>https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.33&lt;/p&gt;&lt;p&gt;Netflix&amp;#x27;s TV app is getting a new &amp;quot;AI Discover&amp;quot; tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like &amp;quot;Something Light,&amp;quot; &amp;quot;Family Movie Night,&amp;quot; or &amp;quot;Quick Watches.&amp;quot; When you pick a theme, Netflix will show […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations</guid>
-      <pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
+      <title>Qualcomm is betting big on data centers as smartphone sales sink</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.36&lt;/p&gt;&lt;p&gt;With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers</guid>
+      <pubDate>Wed, 04 Nov 2026 22:42:15 +0000</pubDate>
     </item>
     <item>
-      <title>Apple starts giving Siri AI access to third-party apps</title>
-      <link>https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.33&lt;/p&gt;&lt;p&gt;Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI&amp;#x27;s new features in &amp;quot;all apps,&amp;quot; allowing the voice assistant to draw on a user&amp;#x27;s personal context, process natural language prompts, and use on-screen awareness to […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps</guid>
-      <pubDate>Tue, 03 Nov 2026 20:16:17 +0000</pubDate>
+      <title>ChatGPT will now make you animated GIFs</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.32&lt;/p&gt;&lt;p&gt;ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI&amp;#x27;s new Images 2.6 model, allows you to adjust the GIF&amp;#x27;s animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn&amp;#x27;t natively generate GIFs in a single […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6</guid>
+      <pubDate>Wed, 04 Nov 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>datasette-apps 0.3a0</title>
+      <link>https://simonwillison.net/2026/Nov/4/datasette-apps/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.31&lt;/p&gt;&lt;p&gt;Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it&amp;#x27;s easier to create them using LLMs via Datasette Agent . This release improves that integration: Apps can now be tagged in Datasette Agent chat messages by typing # , which autocompletes from the apps the user has permission to view. New app_add_stored_queries() and app_remove_stored_queries() tools let the agent manage which stored queries an app is allowed to call. Granting a write query requires approval from the user first. ap…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/4/datasette-apps/</guid>
+      <pubDate>Wed, 04 Nov 2026 00:29:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
