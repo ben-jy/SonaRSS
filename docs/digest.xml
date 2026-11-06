@@ -8,13 +8,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 05:27:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:27:13 +0000</lastBuildDate>
     <item>
-      <title>Google hasn’t figured out how to make AI pay like its search engine</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.52&lt;/p&gt;&lt;p&gt;Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google&amp;#x27;s Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3</guid>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+      <title>The hidden supply chain costs of the AI boom</title>
+      <link>https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.52&lt;/p&gt;&lt;p&gt;Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book</guid>
+      <pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI says its new cybersecurity model is better at not hacking other companies</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.49&lt;/p&gt;&lt;p&gt;OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch</guid>
+      <pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>USB Gym: A Gymnasium Testbed for Closed-Loop Ultrasound View Matching</title>
+      <link>https://arxiv.org/abs/2611.08352v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.48&lt;/p&gt;&lt;p&gt;Background and Objective: Our main goal is ultrasound guidance: moving a probe until its image matches a target view. Published methods for each part of a guide are evaluated in separate simulators. We asked whether these methods, combined into one guide, are good enough. Methods: We built USB Gym, a testbed whose standard engine simulates ultrasound from public patient CT, with a network drawing organ textures from CT labels. Its guide has three replaceable parts (slots), an organ segmenter, a controller and a reward, which received 20 published methods, each run on the same 60 episodes of s…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.08352v1</guid>
+      <pubDate>Thu, 05 Nov 2026 17:34:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI is stepping back from NDAs for data center projects</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.47&lt;/p&gt;&lt;p&gt;Following this week&amp;#x27;s midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won&amp;#x27;t use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda</guid>
+      <pubDate>Fri, 06 Nov 2026 00:37:56 +0000</pubDate>
     </item>
     <item>
       <title>StateBench: Testing how language models track state changes over long documents</title>
@@ -24,11 +45,18 @@
       <pubDate>Tue, 03 Nov 2026 17:15:21 +0000</pubDate>
     </item>
     <item>
-      <title>Nothing teases a screen-free AI device ahead of launch next month</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.46&lt;/p&gt;&lt;p&gt;Nothing CEO Carl Pei said in a post on X that the company&amp;#x27;s launching its first AI device in December. That&amp;#x27;s just a little over a year after Pei announced plans for &amp;quot;AI-native&amp;quot; devices and an AI operating system. He didn&amp;#x27;t give away much about what exactly the new device is, only that one feature […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei</guid>
-      <pubDate>Wed, 04 Nov 2026 18:26:07 +0000</pubDate>
+      <title>Airbnb is working on an AI travel agent</title>
+      <link>https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.44&lt;/p&gt;&lt;p&gt;Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. &amp;quot;Today&amp;#x27;s AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,&amp;quot; Airbnb said. &amp;quot;But […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings</guid>
+      <pubDate>Fri, 06 Nov 2026 00:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perplexity launches its own take on AI agents for work</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.44&lt;/p&gt;&lt;p&gt;Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup&amp;#x27;s new always-on &amp;quot;Teammates&amp;quot; can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work</guid>
+      <pubDate>Thu, 05 Nov 2026 22:26:50 +0000</pubDate>
     </item>
     <item>
       <title>llm 0.37.1</title>
@@ -36,13 +64,6 @@
       <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.43&lt;/p&gt;&lt;p&gt;Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm&lt;/p&gt;</description>
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/llm/</guid>
       <pubDate>Tue, 03 Nov 2026 21:41:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>The U.S. Census Bureau and “Super Intelligence”</title>
-      <link>https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.43&lt;/p&gt;&lt;p&gt;I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis , and then to experiment with Claude&amp;#x27;s new Code Interpreter . I decided to try running those numbers again to see what had changed over the past year, and in doing so learned that the Bureau has fallen foul of Executive Order 14434 , aka the asinine Super Intelligence one. F…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/</guid>
-      <pubDate>Mon, 02 Nov 2026 13:31:26 +0000</pubDate>
     </item>
     <item>
       <title>How big is the open model economy today?</title>
@@ -59,18 +80,18 @@
       <pubDate>Wed, 04 Nov 2026 15:26:02 +0000</pubDate>
     </item>
     <item>
-      <title>llm 0.37</title>
-      <link>https://simonwillison.net/2026/Nov/2/llm/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.40&lt;/p&gt;&lt;p&gt;Release: llm 0.37 There&amp;#x27;s a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure additional models that use OpenAI-compatible endpoints. I switched the default model (if you have not set your own default) to gpt-6-luna - half the price of the previous default, gpt-5.6-luna . LLM&amp;#x27;s support for embeddings now accepts that different binary content may have different content-type - necessary for model…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/2/llm/</guid>
-      <pubDate>Mon, 02 Nov 2026 23:49:30 +0000</pubDate>
+      <title>Risk Control Certifies Rates, Not Magnitudes: An Audit of Selective Fetal Biometry</title>
+      <link>https://arxiv.org/abs/2611.05851v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.41&lt;/p&gt;&lt;p&gt;Prenatal ultrasound biometry must return a head circumference (HC) and refuse when the image cannot support one. Selective prediction trades coverage against error, but its finite-sample guarantees bound the rate of gross errors, not their magnitude. We audit a tool-grounded biometry pipeline on two separately pre-registered four-way splits of the 999 labelled HC18 images, retraining the segmenter three times on each. Calibrating the contour-completeness threshold by exact Clopper-Pearson risk control returns a certificate indistinguishable from a hand-set floor, yet the pipeline still emits…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.05851v1</guid>
+      <pubDate>Wed, 04 Nov 2026 02:41:56 +0000</pubDate>
     </item>
     <item>
-      <title>Uber only fulfilled 4 rides from AI agents last quarter</title>
-      <link>https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.39&lt;/p&gt;&lt;p&gt;AI agents won&amp;#x27;t be stealing Uber&amp;#x27;s lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording &amp;quot;around 500&amp;quot; during […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation</guid>
-      <pubDate>Wed, 04 Nov 2026 15:58:45 +0000</pubDate>
+      <title>Task-Aware Bitrate Thresholds for Codec-Robust Ultrasound Segmentation</title>
+      <link>https://arxiv.org/abs/2611.06992v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.39&lt;/p&gt;&lt;p&gt;Remote robot surgery and tele-ultrasound increasingly rely on real-time streaming under strict bandwidth constraints, making lossy compression unavoidable. Since the receiving end of these clinical pipelines is increasingly a machine rather than a human observer, codec selection must be guided by downstream task accuracy rather than perceptual fidelity. We evaluate three widely deployed codecs, H.264/AVC, HEVC, and AV1, on prostate ultrasound segmentation, reporting task-aware compression performance with region overlap (Dice) and boundary accuracy (HD95) as the quality metrics. To compare co…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.06992v1</guid>
+      <pubDate>Wed, 04 Nov 2026 18:06:16 +0000</pubDate>
     </item>
     <item>
       <title>Palette: teaching a small model to build decks in your design language</title>
@@ -80,25 +101,11 @@
       <pubDate>Tue, 03 Nov 2026 16:35:36 +0000</pubDate>
     </item>
     <item>
-      <title>Data centers lost the midterms</title>
-      <link>https://www.theverge.com/policy/1026365/data-centers-midterms-results</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.36&lt;/p&gt;&lt;p&gt;Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1026365/data-centers-midterms-results</guid>
-      <pubDate>Wed, 04 Nov 2026 16:05:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qualcomm is betting big on data centers as smartphone sales sink</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.36&lt;/p&gt;&lt;p&gt;With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers</guid>
-      <pubDate>Wed, 04 Nov 2026 22:42:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT will now make you animated GIFs</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.32&lt;/p&gt;&lt;p&gt;ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI&amp;#x27;s new Images 2.6 model, allows you to adjust the GIF&amp;#x27;s animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn&amp;#x27;t natively generate GIFs in a single […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6</guid>
-      <pubDate>Wed, 04 Nov 2026 18:00:00 +0000</pubDate>
+      <title>You can post AI music straight to SoundCloud from ElevenLabs</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.33&lt;/p&gt;&lt;p&gt;After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can publish them directly. As part of the partnership, SoundCloud Artist Pro subscribers are also getting three months […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs</guid>
+      <pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>datasette-apps 0.3a0</title>
