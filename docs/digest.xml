@@ -8,20 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 05:27:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 05:27:11 +0000</lastBuildDate>
     <item>
-      <title>The hidden supply chain costs of the AI boom</title>
-      <link>https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.52&lt;/p&gt;&lt;p&gt;Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book</guid>
-      <pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
+      <title>OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.58&lt;/p&gt;&lt;p&gt;OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world&amp;#x27;s most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</guid>
+      <pubDate>Fri, 06 Nov 2026 23:46:18 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI says its new cybersecurity model is better at not hacking other companies</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.49&lt;/p&gt;&lt;p&gt;OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch</guid>
-      <pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+      <title>All the latest updates on AI data centers</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.51&lt;/p&gt;&lt;p&gt;Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</guid>
+      <pubDate>Fri, 06 Nov 2026 20:02:22 +0000</pubDate>
     </item>
     <item>
       <title>USB Gym: A Gymnasium Testbed for Closed-Loop Ultrasound View Matching</title>
@@ -38,32 +38,11 @@
       <pubDate>Fri, 06 Nov 2026 00:37:56 +0000</pubDate>
     </item>
     <item>
-      <title>StateBench: Testing how language models track state changes over long documents</title>
-      <link>https://huggingface.co/blog/allenai/statebench</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.46&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/allenai/statebench</guid>
-      <pubDate>Tue, 03 Nov 2026 17:15:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Airbnb is working on an AI travel agent</title>
-      <link>https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.44&lt;/p&gt;&lt;p&gt;Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. &amp;quot;Today&amp;#x27;s AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,&amp;quot; Airbnb said. &amp;quot;But […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings</guid>
-      <pubDate>Fri, 06 Nov 2026 00:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Perplexity launches its own take on AI agents for work</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.44&lt;/p&gt;&lt;p&gt;Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup&amp;#x27;s new always-on &amp;quot;Teammates&amp;quot; can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work</guid>
-      <pubDate>Thu, 05 Nov 2026 22:26:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>llm 0.37.1</title>
-      <link>https://simonwillison.net/2026/Nov/3/llm/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.43&lt;/p&gt;&lt;p&gt;Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/llm/</guid>
-      <pubDate>Tue, 03 Nov 2026 21:41:42 +0000</pubDate>
+      <title>China reportedly recruited AI exec to spy on Jensen Huang</title>
+      <link>https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;China&amp;#x27;s intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and &amp;quot;potentially influence the company to push for its most advanced chips to be made available to China.&amp;quot; Megaspeed […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</guid>
+      <pubDate>Fri, 06 Nov 2026 23:00:44 +0000</pubDate>
     </item>
     <item>
       <title>How big is the open model economy today?</title>
@@ -80,13 +59,6 @@
       <pubDate>Wed, 04 Nov 2026 15:26:02 +0000</pubDate>
     </item>
     <item>
-      <title>Risk Control Certifies Rates, Not Magnitudes: An Audit of Selective Fetal Biometry</title>
-      <link>https://arxiv.org/abs/2611.05851v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.41&lt;/p&gt;&lt;p&gt;Prenatal ultrasound biometry must return a head circumference (HC) and refuse when the image cannot support one. Selective prediction trades coverage against error, but its finite-sample guarantees bound the rate of gross errors, not their magnitude. We audit a tool-grounded biometry pipeline on two separately pre-registered four-way splits of the 999 labelled HC18 images, retraining the segmenter three times on each. Calibrating the contour-completeness threshold by exact Clopper-Pearson risk control returns a certificate indistinguishable from a hand-set floor, yet the pipeline still emits…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.05851v1</guid>
-      <pubDate>Wed, 04 Nov 2026 02:41:56 +0000</pubDate>
-    </item>
-    <item>
       <title>Task-Aware Bitrate Thresholds for Codec-Robust Ultrasound Segmentation</title>
       <link>https://arxiv.org/abs/2611.06992v1</link>
       <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.39&lt;/p&gt;&lt;p&gt;Remote robot surgery and tele-ultrasound increasingly rely on real-time streaming under strict bandwidth constraints, making lossy compression unavoidable. Since the receiving end of these clinical pipelines is increasingly a machine rather than a human observer, codec selection must be guided by downstream task accuracy rather than perceptual fidelity. We evaluate three widely deployed codecs, H.264/AVC, HEVC, and AV1, on prostate ultrasound segmentation, reporting task-aware compression performance with region overlap (Dice) and boundary accuracy (HD95) as the quality metrics. To compare co…&lt;/p&gt;</description>
@@ -94,25 +66,25 @@
       <pubDate>Wed, 04 Nov 2026 18:06:16 +0000</pubDate>
     </item>
     <item>
-      <title>Palette: teaching a small model to build decks in your design language</title>
-      <link>https://huggingface.co/blog/ibm-research/palette-deck-building</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.38&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/palette-deck-building</guid>
-      <pubDate>Tue, 03 Nov 2026 16:35:36 +0000</pubDate>
+      <title>Big Tech lost big in the 2026 election</title>
+      <link>https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.37&lt;/p&gt;&lt;p&gt;On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast</guid>
+      <pubDate>Fri, 06 Nov 2026 16:38:02 +0000</pubDate>
     </item>
     <item>
-      <title>You can post AI music straight to SoundCloud from ElevenLabs</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.33&lt;/p&gt;&lt;p&gt;After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can publish them directly. As part of the partnership, SoundCloud Artist Pro subscribers are also getting three months […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs</guid>
-      <pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
+      <title>Quoting Nilay Patel</title>
+      <link>https://simonwillison.net/2026/Nov/6/nilay-patel/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.36&lt;/p&gt;&lt;p&gt;The products aren&amp;#x27;t good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It&amp;#x27;s not worth it. It just isn&amp;#x27;t worth it to anyone. And agents aren&amp;#x27;t real and they might not be being used the way that anyone wants them to yet. All these companies are spending more than they&amp;#x27;re making on these products. Refrigerators holding blood storage in Europe are being hacked. The costs are too high. The benefits are not real. And if you connect that to c…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/6/nilay-patel/</guid>
+      <pubDate>Fri, 06 Nov 2026 17:13:12 +0000</pubDate>
     </item>
     <item>
-      <title>datasette-apps 0.3a0</title>
-      <link>https://simonwillison.net/2026/Nov/4/datasette-apps/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.31&lt;/p&gt;&lt;p&gt;Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it&amp;#x27;s easier to create them using LLMs via Datasette Agent . This release improves that integration: Apps can now be tagged in Datasette Agent chat messages by typing # , which autocompletes from the apps the user has permission to view. New app_add_stored_queries() and app_remove_stored_queries() tools let the agent manage which stored queries an app is allowed to call. Granting a write query requires approval from the user first. ap…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/4/datasette-apps/</guid>
-      <pubDate>Wed, 04 Nov 2026 00:29:36 +0000</pubDate>
+      <title>AI is the new dating dealbreaker</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.31&lt;/p&gt;&lt;p&gt;When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. &amp;quot;Hinge has a prompt where […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity</guid>
+      <pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
