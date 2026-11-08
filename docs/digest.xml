@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 05:27:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 05:27:00 +0000</lastBuildDate>
     <item>
       <title>OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</link>
       <description>&lt;p&gt;AI | The Verge · score 0.58&lt;/p&gt;&lt;p&gt;OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world&amp;#x27;s most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</guid>
       <pubDate>Fri, 06 Nov 2026 23:46:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why a new report on Anthropic automating AI development is alarming researchers</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.56&lt;/p&gt;&lt;p&gt;Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company&amp;#x27;s models improving roughly twice as quickly as a year ago, with little indication of slowing down. That&amp;#x27;s according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</guid>
+      <pubDate>Sat, 07 Nov 2026 12:30:00 +0000</pubDate>
     </item>
     <item>
       <title>All the latest updates on AI data centers</title>
@@ -31,11 +38,11 @@
       <pubDate>Thu, 05 Nov 2026 17:34:53 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI is stepping back from NDAs for data center projects</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.47&lt;/p&gt;&lt;p&gt;Following this week&amp;#x27;s midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won&amp;#x27;t use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda</guid>
-      <pubDate>Fri, 06 Nov 2026 00:37:56 +0000</pubDate>
+      <title>AI broke the cybersecurity world. What’s next?</title>
+      <link>https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.46&lt;/p&gt;&lt;p&gt;Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos</guid>
+      <pubDate>Sat, 07 Nov 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>China reportedly recruited AI exec to spy on Jensen Huang</title>
@@ -43,27 +50,6 @@
       <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;China&amp;#x27;s intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and &amp;quot;potentially influence the company to push for its most advanced chips to be made available to China.&amp;quot; Megaspeed […]&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</guid>
       <pubDate>Fri, 06 Nov 2026 23:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>How big is the open model economy today?</title>
-      <link>https://www.interconnects.ai/p/how-well-can-we-measure-open-model</link>
-      <description>&lt;p&gt;Interconnects AI · score 0.42&lt;/p&gt;&lt;p&gt;Our first open model economy research note for paid subscribers.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.interconnects.ai/p/how-well-can-we-measure-open-model</guid>
-      <pubDate>Wed, 04 Nov 2026 16:35:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>datasette-llm 0.1a10</title>
-      <link>https://simonwillison.net/2026/Nov/4/datasette-llm/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.41&lt;/p&gt;&lt;p&gt;Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/4/datasette-llm/</guid>
-      <pubDate>Wed, 04 Nov 2026 15:26:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Task-Aware Bitrate Thresholds for Codec-Robust Ultrasound Segmentation</title>
-      <link>https://arxiv.org/abs/2611.06992v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.39&lt;/p&gt;&lt;p&gt;Remote robot surgery and tele-ultrasound increasingly rely on real-time streaming under strict bandwidth constraints, making lossy compression unavoidable. Since the receiving end of these clinical pipelines is increasingly a machine rather than a human observer, codec selection must be guided by downstream task accuracy rather than perceptual fidelity. We evaluate three widely deployed codecs, H.264/AVC, HEVC, and AV1, on prostate ultrasound segmentation, reporting task-aware compression performance with region overlap (Dice) and boundary accuracy (HD95) as the quality metrics. To compare co…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.06992v1</guid>
-      <pubDate>Wed, 04 Nov 2026 18:06:16 +0000</pubDate>
     </item>
     <item>
       <title>Big Tech lost big in the 2026 election</title>
@@ -85,6 +71,13 @@
       <description>&lt;p&gt;AI | The Verge · score 0.31&lt;/p&gt;&lt;p&gt;When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. &amp;quot;Hinge has a prompt where […]&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity</guid>
       <pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The US let Nvidia sell chips to an empty office in China</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.30&lt;/p&gt;&lt;p&gt;Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company&amp;#x27;s H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, &amp;quot;a hollow gray shell […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</guid>
+      <pubDate>Sat, 07 Nov 2026 15:43:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
