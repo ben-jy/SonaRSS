@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 05:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:27:26 +0000</lastBuildDate>
     <item>
       <title>OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</link>
@@ -24,18 +24,11 @@
       <pubDate>Sat, 07 Nov 2026 12:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>All the latest updates on AI data centers</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.51&lt;/p&gt;&lt;p&gt;Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</guid>
-      <pubDate>Fri, 06 Nov 2026 20:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>USB Gym: A Gymnasium Testbed for Closed-Loop Ultrasound View Matching</title>
-      <link>https://arxiv.org/abs/2611.08352v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.48&lt;/p&gt;&lt;p&gt;Background and Objective: Our main goal is ultrasound guidance: moving a probe until its image matches a target view. Published methods for each part of a guide are evaluated in separate simulators. We asked whether these methods, combined into one guide, are good enough. Methods: We built USB Gym, a testbed whose standard engine simulates ultrasound from public patient CT, with a network drawing organ textures from CT labels. Its guide has three replaceable parts (slots), an organ segmenter, a controller and a reward, which received 20 published methods, each run on the same 60 episodes of s…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.08352v1</guid>
-      <pubDate>Thu, 05 Nov 2026 17:34:53 +0000</pubDate>
+      <title>Apple is racing to make Siri more agentic</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.47&lt;/p&gt;&lt;p&gt;Bloomberg&amp;#x27;s Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI&amp;#x27;s Dots or Meta&amp;#x27;s Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it&amp;#x27;s […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</guid>
+      <pubDate>Sun, 08 Nov 2026 19:18:19 +0000</pubDate>
     </item>
     <item>
       <title>AI broke the cybersecurity world. What’s next?</title>
@@ -52,13 +45,6 @@
       <pubDate>Fri, 06 Nov 2026 23:00:44 +0000</pubDate>
     </item>
     <item>
-      <title>Big Tech lost big in the 2026 election</title>
-      <link>https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.37&lt;/p&gt;&lt;p&gt;On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast</guid>
-      <pubDate>Fri, 06 Nov 2026 16:38:02 +0000</pubDate>
-    </item>
-    <item>
       <title>Quoting Nilay Patel</title>
       <link>https://simonwillison.net/2026/Nov/6/nilay-patel/</link>
       <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.36&lt;/p&gt;&lt;p&gt;The products aren&amp;#x27;t good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It&amp;#x27;s not worth it. It just isn&amp;#x27;t worth it to anyone. And agents aren&amp;#x27;t real and they might not be being used the way that anyone wants them to yet. All these companies are spending more than they&amp;#x27;re making on these products. Refrigerators holding blood storage in Europe are being hacked. The costs are too high. The benefits are not real. And if you connect that to c…&lt;/p&gt;</description>
@@ -66,11 +52,18 @@
       <pubDate>Fri, 06 Nov 2026 17:13:12 +0000</pubDate>
     </item>
     <item>
-      <title>AI is the new dating dealbreaker</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.31&lt;/p&gt;&lt;p&gt;When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. &amp;quot;Hinge has a prompt where […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity</guid>
-      <pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
+      <title>Hide your slop PR descriptions behind</title>
+      <link>https://simonwillison.net/2026/Nov/9/details-summary/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.35&lt;/p&gt;&lt;p&gt;Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today&amp;#x27;s coding agents are great at writing PR descriptions. They&amp;#x27;re too good at describing the work The problem is that they are too good. An agent-written PR description is accurate and comprehensive. It describes the problem, the detailed solution, and the steps taken to verify it. That&amp;#x27;s a lot of information t…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/9/details-summary/</guid>
+      <pubDate>Mon, 09 Nov 2026 04:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia is investigating Jensen Huang’s relationship with a Chinese spy</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.31&lt;/p&gt;&lt;p&gt;Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China&amp;#x27;s Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy</guid>
+      <pubDate>Sun, 08 Nov 2026 20:22:39 +0000</pubDate>
     </item>
     <item>
       <title>The US let Nvidia sell chips to an empty office in China</title>
