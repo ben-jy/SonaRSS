@@ -8,48 +8,41 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 05:27:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:27:26 +0000</lastBuildDate>
     <item>
-      <title>OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.58&lt;/p&gt;&lt;p&gt;OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world&amp;#x27;s most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</guid>
-      <pubDate>Fri, 06 Nov 2026 23:46:18 +0000</pubDate>
+      <title>David Ellison says AI could be the ‘biggest creative unlock in modern history’</title>
+      <link>https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.60&lt;/p&gt;&lt;p&gt;During Paramount Skydance&amp;#x27;s latest earnings call, CEO David Ellison said &amp;quot;it&amp;#x27;s hard to imagine&amp;quot; AI won&amp;#x27;t have a bigger impact on the film industry than CGI. In response to a question about the company&amp;#x27;s outlook for AI, Ellison said: &amp;quot;I think when you zoom out and look at production, AI really has the potential to […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai</guid>
+      <pubDate>Tue, 10 Nov 2026 00:28:49 +0000</pubDate>
     </item>
     <item>
-      <title>Why a new report on Anthropic automating AI development is alarming researchers</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.56&lt;/p&gt;&lt;p&gt;Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company&amp;#x27;s models improving roughly twice as quickly as a year ago, with little indication of slowing down. That&amp;#x27;s according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</guid>
-      <pubDate>Sat, 07 Nov 2026 12:30:00 +0000</pubDate>
+      <title>What could China get from Jensen Huang?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.47&lt;/p&gt;&lt;p&gt;It&amp;#x27;s difficult to overstate Nvidia&amp;#x27;s power in today&amp;#x27;s AI landscape. The company&amp;#x27;s chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang</guid>
+      <pubDate>Mon, 09 Nov 2026 23:51:58 +0000</pubDate>
     </item>
     <item>
-      <title>Apple is racing to make Siri more agentic</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.47&lt;/p&gt;&lt;p&gt;Bloomberg&amp;#x27;s Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI&amp;#x27;s Dots or Meta&amp;#x27;s Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it&amp;#x27;s […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</guid>
-      <pubDate>Sun, 08 Nov 2026 19:18:19 +0000</pubDate>
+      <title>The future of AI hinges on… Jensen Huang’s sex life?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.41&lt;/p&gt;&lt;p&gt;I would prefer that these people&amp;#x27;s sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me</guid>
+      <pubDate>Mon, 09 Nov 2026 17:36:08 +0000</pubDate>
     </item>
     <item>
-      <title>AI broke the cybersecurity world. What’s next?</title>
-      <link>https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.46&lt;/p&gt;&lt;p&gt;Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos</guid>
-      <pubDate>Sat, 07 Nov 2026 15:00:00 +0000</pubDate>
+      <title>Disney and Adobe are building generative AI tools together</title>
+      <link>https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.40&lt;/p&gt;&lt;p&gt;The Walt Disney Company has teamed up with Adobe to develop proprietary &amp;quot;artist-led&amp;quot; generative AI models to support Disney&amp;#x27;s production pipeline. The multiyear partnership was announced today at Adobe&amp;#x27;s MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney&amp;#x27;s theme parks and cruise line to […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership</guid>
+      <pubDate>Mon, 09 Nov 2026 15:38:56 +0000</pubDate>
     </item>
     <item>
-      <title>China reportedly recruited AI exec to spy on Jensen Huang</title>
-      <link>https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;China&amp;#x27;s intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and &amp;quot;potentially influence the company to push for its most advanced chips to be made available to China.&amp;quot; Megaspeed […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</guid>
-      <pubDate>Fri, 06 Nov 2026 23:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting Nilay Patel</title>
-      <link>https://simonwillison.net/2026/Nov/6/nilay-patel/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.36&lt;/p&gt;&lt;p&gt;The products aren&amp;#x27;t good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It&amp;#x27;s not worth it. It just isn&amp;#x27;t worth it to anyone. And agents aren&amp;#x27;t real and they might not be being used the way that anyone wants them to yet. All these companies are spending more than they&amp;#x27;re making on these products. Refrigerators holding blood storage in Europe are being hacked. The costs are too high. The benefits are not real. And if you connect that to c…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/6/nilay-patel/</guid>
-      <pubDate>Fri, 06 Nov 2026 17:13:12 +0000</pubDate>
+      <title>Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.37&lt;/p&gt;&lt;p&gt;The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</guid>
+      <pubDate>Mon, 09 Nov 2026 23:07:59 +0000</pubDate>
     </item>
     <item>
       <title>Hide your slop PR descriptions behind</title>
@@ -59,18 +52,18 @@
       <pubDate>Mon, 09 Nov 2026 04:25:05 +0000</pubDate>
     </item>
     <item>
-      <title>Nvidia is investigating Jensen Huang’s relationship with a Chinese spy</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.31&lt;/p&gt;&lt;p&gt;Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China&amp;#x27;s Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy</guid>
-      <pubDate>Sun, 08 Nov 2026 20:22:39 +0000</pubDate>
+      <title>Apple’s $50 Intelligence Usage Packs extend access to some AI features</title>
+      <link>https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.33&lt;/p&gt;&lt;p&gt;After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to &amp;quot;Buy More Usage&amp;quot; for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like &amp;quot;start a new song, set […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro</guid>
+      <pubDate>Mon, 09 Nov 2026 19:09:58 +0000</pubDate>
     </item>
     <item>
-      <title>The US let Nvidia sell chips to an empty office in China</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.30&lt;/p&gt;&lt;p&gt;Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company&amp;#x27;s H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, &amp;quot;a hollow gray shell […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</guid>
-      <pubDate>Sat, 07 Nov 2026 15:43:45 +0000</pubDate>
+      <title>Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.31&lt;/p&gt;&lt;p&gt;Asked about AI executives&amp;#x27; warnings about their models&amp;#x27; safety on 60 Minutes, Trump said, &amp;quot;I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it&amp;#x27;s managed.&amp;quot; He claimed the DOJ is managing that risk, saying, &amp;quot;We had a situation where somebody […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai</guid>
+      <pubDate>Mon, 09 Nov 2026 15:50:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
