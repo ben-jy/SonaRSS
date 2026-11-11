@@ -8,41 +8,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 05:27:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:27:07 +0000</lastBuildDate>
     <item>
-      <title>David Ellison says AI could be the ‘biggest creative unlock in modern history’</title>
-      <link>https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.60&lt;/p&gt;&lt;p&gt;During Paramount Skydance&amp;#x27;s latest earnings call, CEO David Ellison said &amp;quot;it&amp;#x27;s hard to imagine&amp;quot; AI won&amp;#x27;t have a bigger impact on the film industry than CGI. In response to a question about the company&amp;#x27;s outlook for AI, Ellison said: &amp;quot;I think when you zoom out and look at production, AI really has the potential to […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai</guid>
-      <pubDate>Tue, 10 Nov 2026 00:28:49 +0000</pubDate>
+      <title>Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training</title>
+      <link>https://arxiv.org/abs/2611.14519v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.64&lt;/p&gt;&lt;p&gt;Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new clinical sites. It also remains unclear how much of a foundation model must be adapted, and what determines this. We adapted a foundation model, DINOv2, with strategies ranging from tuning only its bia…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14519v1</guid>
+      <pubDate>Tue, 10 Nov 2026 18:59:54 +0000</pubDate>
     </item>
     <item>
-      <title>What could China get from Jensen Huang?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.47&lt;/p&gt;&lt;p&gt;It&amp;#x27;s difficult to overstate Nvidia&amp;#x27;s power in today&amp;#x27;s AI landscape. The company&amp;#x27;s chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang</guid>
-      <pubDate>Mon, 09 Nov 2026 23:51:58 +0000</pubDate>
+      <title>Anthropic has its own AI-powered office suite now</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.53&lt;/p&gt;&lt;p&gt;For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now</guid>
+      <pubDate>Tue, 10 Nov 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>The future of AI hinges on… Jensen Huang’s sex life?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.41&lt;/p&gt;&lt;p&gt;I would prefer that these people&amp;#x27;s sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me</guid>
-      <pubDate>Mon, 09 Nov 2026 17:36:08 +0000</pubDate>
+      <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
+      <link>https://huggingface.co/blog/qvac/botpsy</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.53&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/qvac/botpsy</guid>
+      <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
     </item>
     <item>
-      <title>Disney and Adobe are building generative AI tools together</title>
-      <link>https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.40&lt;/p&gt;&lt;p&gt;The Walt Disney Company has teamed up with Adobe to develop proprietary &amp;quot;artist-led&amp;quot; generative AI models to support Disney&amp;#x27;s production pipeline. The multiyear partnership was announced today at Adobe&amp;#x27;s MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney&amp;#x27;s theme parks and cruise line to […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership</guid>
-      <pubDate>Mon, 09 Nov 2026 15:38:56 +0000</pubDate>
+      <title>Adobe is going all in on agentic AI</title>
+      <link>https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.48&lt;/p&gt;&lt;p&gt;Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe&amp;#x27;s Max conference in Miami, Florida, include allowing your preferred third-party AI agents to access and change […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates</guid>
+      <pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.37&lt;/p&gt;&lt;p&gt;The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</guid>
-      <pubDate>Mon, 09 Nov 2026 23:07:59 +0000</pubDate>
+      <title>The US is winning the AI race. Jensen Huang could have blown it</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.48&lt;/p&gt;&lt;p&gt;As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world&amp;#x27;s most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy</guid>
+      <pubDate>Tue, 10 Nov 2026 19:04:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Next-Generation Segmentation in Radiotherapy: A Narrative Review from Atlas-Based Methods to Agentic Vision-Language Models</title>
+      <link>https://arxiv.org/abs/2611.12085v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.47&lt;/p&gt;&lt;p&gt;Precise segmentation of target volumes and organs at risk is an essential prerequisite for modern, high-precision radiation therapy. However, this task has traditionally been time-consuming and subject to high interobserver variability. Motivated by these limitations, more advanced and novel approaches to automating this task have been developed over the past two decades. This narrative review highlights representative milestones, with a focus on the most recent developments. These approaches include atlas-based label propagation, convolutional architectures, promptable foundation models, and…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12085v1</guid>
+      <pubDate>Mon, 09 Nov 2026 09:04:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>The indie game community is in disarray over AI and Big Walk</title>
+      <link>https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.44&lt;/p&gt;&lt;p&gt;Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in &amp;quot;any capacity.&amp;quot; Soon after, the developer of indie hit Big Walk has published a statement saying it &amp;quot;sparingly&amp;quot; used AI in the &amp;quot;final stretch&amp;quot; of the game&amp;#x27;s development to &amp;quot;help work through difficult […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai</guid>
+      <pubDate>Tue, 10 Nov 2026 17:32:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google releases Gemini 4 Carbon with agent ‘swarm’ feature</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.42&lt;/p&gt;&lt;p&gt;Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of &amp;quot;cybersecurity defenders&amp;quot; two weeks ago. Google claims Carbon is its &amp;quot;strongest model&amp;quot; yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon &amp;quot;pushes […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout</guid>
+      <pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counterfactual Analysis of Extent Leakage from Annotation-Derived Prompts in Vision-Language Medical Image Segmentation</title>
+      <link>https://arxiv.org/abs/2611.13970v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.40&lt;/p&gt;&lt;p&gt;Text-guided segmentation models receive an image and a short caption about the lesion, and on public benchmarks the caption improves accuracy considerably. On colonoscopy and breast ultrasound, however, the size, count and location words of each caption were computed from the mask that later scores the prediction, and the chest X-ray captions were written by benchmark annotators. We tested what two published models take from them. On colonoscopy and chest X-ray, it is mostly the lesion&amp;#x27;s extent. Keeping only the size word or the lung-zone phrase recovers 84 to 98 percent of the improvement ov…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.13970v1</guid>
+      <pubDate>Tue, 10 Nov 2026 12:07:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
+      <link>https://simonwillison.net/2026/Nov/10/muse-ember/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.39&lt;/p&gt;&lt;p&gt;Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it&amp;#x27;s priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million output. Today&amp;#x27;s other big model release, Claude Fable 5.2, is 80x that price at $8/$40. The pricing i…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/10/muse-ember/</guid>
+      <pubDate>Tue, 10 Nov 2026 07:28:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT is getting verified AI ‘Business Agents’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.38&lt;/p&gt;&lt;p&gt;ChatGPT is going to let you chat with verified &amp;quot;Business Agents&amp;quot; that represent a brand to help you with things like comparison shopping. The feature, available first to &amp;quot;eligible&amp;quot; e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub</guid>
+      <pubDate>Tue, 10 Nov 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>eBay appears to have shut the door on third-party AI agents</title>
+      <link>https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.37&lt;/p&gt;&lt;p&gt;eBay appears to have blocked AI agents, including Meta&amp;#x27;s Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he&amp;#x27;s had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping</guid>
+      <pubDate>Tue, 10 Nov 2026 16:20:30 +0000</pubDate>
     </item>
     <item>
       <title>Hide your slop PR descriptions behind</title>
@@ -52,18 +101,18 @@
       <pubDate>Mon, 09 Nov 2026 04:25:05 +0000</pubDate>
     </item>
     <item>
-      <title>Apple’s $50 Intelligence Usage Packs extend access to some AI features</title>
-      <link>https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.33&lt;/p&gt;&lt;p&gt;After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to &amp;quot;Buy More Usage&amp;quot; for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like &amp;quot;start a new song, set […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro</guid>
-      <pubDate>Mon, 09 Nov 2026 19:09:58 +0000</pubDate>
+      <title>Anthropic targets $1.4 trillion IPO</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.33&lt;/p&gt;&lt;p&gt;Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New York Times. The Wall Street Journal […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion</guid>
+      <pubDate>Tue, 10 Nov 2026 14:06:54 +0000</pubDate>
     </item>
     <item>
-      <title>Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.31&lt;/p&gt;&lt;p&gt;Asked about AI executives&amp;#x27; warnings about their models&amp;#x27; safety on 60 Minutes, Trump said, &amp;quot;I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it&amp;#x27;s managed.&amp;quot; He claimed the DOJ is managing that risk, saying, &amp;quot;We had a situation where somebody […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai</guid>
-      <pubDate>Mon, 09 Nov 2026 15:50:38 +0000</pubDate>
+      <title>Photoshop, Lightroom, and Premiere are making it easier to remove things</title>
+      <link>https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.32&lt;/p&gt;&lt;p&gt;Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe&amp;#x27;s Max event today include features for automatically removing objects, blemishes, and other unwanted distractions in Premiere, Photoshop, and Lightroom, alongside new generative AI […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates</guid>
+      <pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
