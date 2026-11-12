@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 05:27:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:27:58 +0000</lastBuildDate>
     <item>
       <title>Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training</title>
       <link>https://arxiv.org/abs/2611.14519v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.64&lt;/p&gt;&lt;p&gt;Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new clinical sites. It also remains unclear how much of a foundation model must be adapted, and what determines this. We adapted a foundation model, DINOv2, with strategies ranging from tuning only its bia…&lt;/p&gt;</description>
+      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.64&lt;/p&gt;&lt;p&gt;Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new clinical sites. It also remains unclear how much of a foundation model must be adapted, and what determines this. We adapted a foundation model, DINOv2, with strategies ranging from tuning only its bia…&lt;/p&gt;</description>
       <guid isPermaLink="true">https://arxiv.org/abs/2611.14519v1</guid>
       <pubDate>Tue, 10 Nov 2026 18:59:54 +0000</pubDate>
     </item>
@@ -31,13 +31,6 @@
       <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
     </item>
     <item>
-      <title>Adobe is going all in on agentic AI</title>
-      <link>https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.48&lt;/p&gt;&lt;p&gt;Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe&amp;#x27;s Max conference in Miami, Florida, include allowing your preferred third-party AI agents to access and change […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates</guid>
-      <pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The US is winning the AI race. Jensen Huang could have blown it</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy</link>
       <description>&lt;p&gt;AI | The Verge · score 0.48&lt;/p&gt;&lt;p&gt;As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world&amp;#x27;s most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]&lt;/p&gt;</description>
@@ -52,6 +45,13 @@
       <pubDate>Mon, 09 Nov 2026 09:04:38 +0000</pubDate>
     </item>
     <item>
+      <title>Google’s Tabletop AI experiment lets you build custom collaboration apps</title>
+      <link>https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.46&lt;/p&gt;&lt;p&gt;Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability</guid>
+      <pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The indie game community is in disarray over AI and Big Walk</title>
       <link>https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai</link>
       <description>&lt;p&gt;AI | The Verge · score 0.44&lt;/p&gt;&lt;p&gt;Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in &amp;quot;any capacity.&amp;quot; Soon after, the developer of indie hit Big Walk has published a statement saying it &amp;quot;sparingly&amp;quot; used AI in the &amp;quot;final stretch&amp;quot; of the game&amp;#x27;s development to &amp;quot;help work through difficult […]&lt;/p&gt;</description>
@@ -59,18 +59,25 @@
       <pubDate>Tue, 10 Nov 2026 17:32:47 +0000</pubDate>
     </item>
     <item>
-      <title>Google releases Gemini 4 Carbon with agent ‘swarm’ feature</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.42&lt;/p&gt;&lt;p&gt;Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of &amp;quot;cybersecurity defenders&amp;quot; two weeks ago. Google claims Carbon is its &amp;quot;strongest model&amp;quot; yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon &amp;quot;pushes […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout</guid>
-      <pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
+      <title>Adobe’s AI experiments let you walk around in photos and interview your characters</title>
+      <link>https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it&amp;#x27;s developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</guid>
+      <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Counterfactual Analysis of Extent Leakage from Annotation-Derived Prompts in Vision-Language Medical Image Segmentation</title>
-      <link>https://arxiv.org/abs/2611.13970v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.40&lt;/p&gt;&lt;p&gt;Text-guided segmentation models receive an image and a short caption about the lesion, and on public benchmarks the caption improves accuracy considerably. On colonoscopy and breast ultrasound, however, the size, count and location words of each caption were computed from the mask that later scores the prediction, and the chest X-ray captions were written by benchmark annotators. We tested what two published models take from them. On colonoscopy and chest X-ray, it is mostly the lesion&amp;#x27;s extent. Keeping only the size word or the lung-zone phrase recovers 84 to 98 percent of the improvement ov…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.13970v1</guid>
-      <pubDate>Tue, 10 Nov 2026 12:07:24 +0000</pubDate>
+      <title>Google’s AlphaGenome 2 zooms in on the cellular roots of disease</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.42&lt;/p&gt;&lt;p&gt;Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model</guid>
+      <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Token Pooling-Aware Training for Multi-Vector Embedding Models</title>
+      <link>https://huggingface.co/blog/token-pooling</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.42&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/token-pooling</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
@@ -94,25 +101,18 @@
       <pubDate>Tue, 10 Nov 2026 16:20:30 +0000</pubDate>
     </item>
     <item>
-      <title>Hide your slop PR descriptions behind</title>
-      <link>https://simonwillison.net/2026/Nov/9/details-summary/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.35&lt;/p&gt;&lt;p&gt;Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today&amp;#x27;s coding agents are great at writing PR descriptions. They&amp;#x27;re too good at describing the work The problem is that they are too good. An agent-written PR description is accurate and comprehensive. It describes the problem, the detailed solution, and the steps taken to verify it. That&amp;#x27;s a lot of information t…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/9/details-summary/</guid>
-      <pubDate>Mon, 09 Nov 2026 04:25:05 +0000</pubDate>
+      <title>Anthropic's IPO roadshow video</title>
+      <link>https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.36&lt;/p&gt;&lt;p&gt;Anthropic&amp;#x27;s IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on &amp;quot;Approach to compute&amp;quot; with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve Claude across AWS Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs. I&amp;#x27;m not sure why there&amp;#x27;s no official video transcript, but here&amp;#x27;s one that I extracted using MacWhisper. Highlights below: We train and serve Claude now across all four major chip families. That&amp;#x27;s only possible becau…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</guid>
+      <pubDate>Wed, 11 Nov 2026 15:11:59 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic targets $1.4 trillion IPO</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.33&lt;/p&gt;&lt;p&gt;Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New York Times. The Wall Street Journal […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion</guid>
-      <pubDate>Tue, 10 Nov 2026 14:06:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Photoshop, Lightroom, and Premiere are making it easier to remove things</title>
-      <link>https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.32&lt;/p&gt;&lt;p&gt;Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe&amp;#x27;s Max event today include features for automatically removing objects, blemishes, and other unwanted distractions in Premiere, Photoshop, and Lightroom, alongside new generative AI […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates</guid>
-      <pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+      <title>Gemini Decisions API</title>
+      <link>https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.35&lt;/p&gt;&lt;p&gt;Gemini Decisions API Google join Jev and OpenAI in the decision model category with &amp;quot;Gemini Decision 1&amp;quot;. This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev&amp;#x27;s term &amp;quot;Noul&amp;quot; for a yes/no question. It&amp;#x27;s priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million. Jev is text (and JSON) only. OpenAI can handle text and images. Gemini Decision 1 is fully multi-model: it covers text, images, audi…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</guid>
+      <pubDate>Wed, 11 Nov 2026 22:03:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
