@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 05:27:58 +0000</lastBuildDate>
-    <item>
-      <title>Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training</title>
-      <link>https://arxiv.org/abs/2611.14519v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.64&lt;/p&gt;&lt;p&gt;Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new clinical sites. It also remains unclear how much of a foundation model must be adapted, and what determines this. We adapted a foundation model, DINOv2, with strategies ranging from tuning only its bia…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.14519v1</guid>
-      <pubDate>Tue, 10 Nov 2026 18:59:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic has its own AI-powered office suite now</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.53&lt;/p&gt;&lt;p&gt;For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now</guid>
-      <pubDate>Tue, 10 Nov 2026 17:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Nov 2026 05:28:14 +0000</lastBuildDate>
     <item>
       <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
       <link>https://huggingface.co/blog/qvac/botpsy</link>
@@ -31,46 +17,25 @@
       <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
     </item>
     <item>
-      <title>The US is winning the AI race. Jensen Huang could have blown it</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.48&lt;/p&gt;&lt;p&gt;As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world&amp;#x27;s most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy</guid>
-      <pubDate>Tue, 10 Nov 2026 19:04:05 +0000</pubDate>
+      <title>More game developers are starting to use generative AI</title>
+      <link>https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.50&lt;/p&gt;&lt;p&gt;More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming&amp;#x27;s latest annual industry survey. Forty percent of developers surveyed say they use it &amp;quot;as part of their job,&amp;quot; an increase from 36 percent in 2025. Usage was higher with game developers that […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs</guid>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Next-Generation Segmentation in Radiotherapy: A Narrative Review from Atlas-Based Methods to Agentic Vision-Language Models</title>
-      <link>https://arxiv.org/abs/2611.12085v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.47&lt;/p&gt;&lt;p&gt;Precise segmentation of target volumes and organs at risk is an essential prerequisite for modern, high-precision radiation therapy. However, this task has traditionally been time-consuming and subject to high interobserver variability. Motivated by these limitations, more advanced and novel approaches to automating this task have been developed over the past two decades. This narrative review highlights representative milestones, with a focus on the most recent developments. These approaches include atlas-based label propagation, convolutional architectures, promptable foundation models, and…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.12085v1</guid>
-      <pubDate>Mon, 09 Nov 2026 09:04:38 +0000</pubDate>
+      <title>AI chatbots are recommending fake retail websites, study finds</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.44&lt;/p&gt;&lt;p&gt;Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations</guid>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Google’s Tabletop AI experiment lets you build custom collaboration apps</title>
-      <link>https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.46&lt;/p&gt;&lt;p&gt;Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability</guid>
-      <pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The indie game community is in disarray over AI and Big Walk</title>
-      <link>https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.44&lt;/p&gt;&lt;p&gt;Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in &amp;quot;any capacity.&amp;quot; Soon after, the developer of indie hit Big Walk has published a statement saying it &amp;quot;sparingly&amp;quot; used AI in the &amp;quot;final stretch&amp;quot; of the game&amp;#x27;s development to &amp;quot;help work through difficult […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai</guid>
-      <pubDate>Tue, 10 Nov 2026 17:32:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe’s AI experiments let you walk around in photos and interview your characters</title>
-      <link>https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.43&lt;/p&gt;&lt;p&gt;Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it&amp;#x27;s developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</guid>
-      <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google’s AlphaGenome 2 zooms in on the cellular roots of disease</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.42&lt;/p&gt;&lt;p&gt;Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model</guid>
-      <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
+      <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
+      <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.43&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
+      <pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
     </item>
     <item>
       <title>Token Pooling-Aware Training for Multi-Vector Embedding Models</title>
@@ -87,20 +52,6 @@
       <pubDate>Tue, 10 Nov 2026 07:28:21 +0000</pubDate>
     </item>
     <item>
-      <title>ChatGPT is getting verified AI ‘Business Agents’</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.38&lt;/p&gt;&lt;p&gt;ChatGPT is going to let you chat with verified &amp;quot;Business Agents&amp;quot; that represent a brand to help you with things like comparison shopping. The feature, available first to &amp;quot;eligible&amp;quot; e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub</guid>
-      <pubDate>Tue, 10 Nov 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>eBay appears to have shut the door on third-party AI agents</title>
-      <link>https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.37&lt;/p&gt;&lt;p&gt;eBay appears to have blocked AI agents, including Meta&amp;#x27;s Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he&amp;#x27;s had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping</guid>
-      <pubDate>Tue, 10 Nov 2026 16:20:30 +0000</pubDate>
-    </item>
-    <item>
       <title>Anthropic's IPO roadshow video</title>
       <link>https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</link>
       <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.36&lt;/p&gt;&lt;p&gt;Anthropic&amp;#x27;s IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on &amp;quot;Approach to compute&amp;quot; with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve Claude across AWS Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs. I&amp;#x27;m not sure why there&amp;#x27;s no official video transcript, but here&amp;#x27;s one that I extracted using MacWhisper. Highlights below: We train and serve Claude now across all four major chip families. That&amp;#x27;s only possible becau…&lt;/p&gt;</description>
@@ -113,6 +64,13 @@
       <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.35&lt;/p&gt;&lt;p&gt;Gemini Decisions API Google join Jev and OpenAI in the decision model category with &amp;quot;Gemini Decision 1&amp;quot;. This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev&amp;#x27;s term &amp;quot;Noul&amp;quot; for a yes/no question. It&amp;#x27;s priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million. Jev is text (and JSON) only. OpenAI can handle text and images. Gemini Decision 1 is fully multi-model: it covers text, images, audi…&lt;/p&gt;</description>
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</guid>
       <pubDate>Wed, 11 Nov 2026 22:03:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>No, AI agents did not discover a previously unknown Maya site</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.35&lt;/p&gt;&lt;p&gt;Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery</guid>
+      <pubDate>Thu, 12 Nov 2026 19:42:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
