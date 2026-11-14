@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 05:28:14 +0000</lastBuildDate>
-    <item>
-      <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
-      <link>https://huggingface.co/blog/qvac/botpsy</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.53&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/qvac/botpsy</guid>
-      <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>More game developers are starting to use generative AI</title>
-      <link>https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.50&lt;/p&gt;&lt;p&gt;More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming&amp;#x27;s latest annual industry survey. Forty percent of developers surveyed say they use it &amp;quot;as part of their job,&amp;quot; an increase from 36 percent in 2025. Usage was higher with game developers that […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs</guid>
-      <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Nov 2026 05:27:01 +0000</lastBuildDate>
     <item>
       <title>AI chatbots are recommending fake retail websites, study finds</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations</link>
@@ -31,25 +17,18 @@
       <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
+      <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.43&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
+      <pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
+    </item>
+    <item>
       <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
       <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
       <description>&lt;p&gt;Hugging Face - Blog · score 0.43&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
       <pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Token Pooling-Aware Training for Multi-Vector Embedding Models</title>
-      <link>https://huggingface.co/blog/token-pooling</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.42&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/token-pooling</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
-      <link>https://simonwillison.net/2026/Nov/10/muse-ember/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.39&lt;/p&gt;&lt;p&gt;Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it&amp;#x27;s priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million output. Today&amp;#x27;s other big model release, Claude Fable 5.2, is 80x that price at $8/$40. The pricing i…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/10/muse-ember/</guid>
-      <pubDate>Tue, 10 Nov 2026 07:28:21 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic's IPO roadshow video</title>
@@ -71,6 +50,34 @@
       <description>&lt;p&gt;AI | The Verge · score 0.35&lt;/p&gt;&lt;p&gt;Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a […]&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery</guid>
       <pubDate>Thu, 12 Nov 2026 19:42:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude’s Duet agent is a little neurotic and surprisingly helpful</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.35&lt;/p&gt;&lt;p&gt;Normally, the products I test don&amp;#x27;t offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic&amp;#x27;s AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don&amp;#x27;t write code. It&amp;#x27;s been an interesting couple […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</guid>
+      <pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and &amp;quot;eligible US-issued American Express, Chase, Mastercard and Visa cards.&amp;quot; After adding a card […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</guid>
+      <pubDate>Fri, 13 Nov 2026 20:45:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon has a plan to index the world’s online shopping data</title>
+      <link>https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.32&lt;/p&gt;&lt;p&gt;Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn&amp;#x27;t sell, and make the information available through its own site, according to Reuters. The project, called the &amp;quot;World Product Graph,&amp;quot; is meant to make it less likely that shoppers leave Amazon to do their […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search</guid>
+      <pubDate>Fri, 13 Nov 2026 23:49:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
+      <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.30&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
+      <pubDate>Fri, 13 Nov 2026 18:00:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
