@@ -8,13 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 05:27:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 05:27:23 +0000</lastBuildDate>
     <item>
-      <title>AI chatbots are recommending fake retail websites, study finds</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.44&lt;/p&gt;&lt;p&gt;Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations</guid>
-      <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
+      <title>Open-source AI without Jensen</title>
+      <link>https://www.interconnects.ai/p/open-source-ai-without-jensen</link>
+      <description>&lt;p&gt;Interconnects AI · score 0.59&lt;/p&gt;&lt;p&gt;A decapitation. It’s time to rebuild.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.interconnects.ai/p/open-source-ai-without-jensen</guid>
+      <pubDate>Sat, 14 Nov 2026 12:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs</title>
+      <link>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.52&lt;/p&gt;&lt;p&gt;Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</guid>
+      <pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>datasette-llm 0.1a11</title>
+      <link>https://simonwillison.net/2026/Nov/14/datasette-llm/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.46&lt;/p&gt;&lt;p&gt;Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you&amp;#x27;re running local models with LM Studio or Ollama or llama.cpp (which just hit v1.0.0 ) you can run Datasette via uvx like this: wget https://datasette.io/content.db uvx --with datasette-agent datasette \ --root --secret 1 \ -s plugins.datasette-llm.d…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/14/datasette-llm/</guid>
+      <pubDate>Sat, 14 Nov 2026 23:59:28 +0000</pubDate>
     </item>
     <item>
       <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
@@ -29,20 +43,6 @@
       <description>&lt;p&gt;Hugging Face - Blog · score 0.43&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
       <pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic's IPO roadshow video</title>
-      <link>https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.36&lt;/p&gt;&lt;p&gt;Anthropic&amp;#x27;s IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on &amp;quot;Approach to compute&amp;quot; with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve Claude across AWS Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs. I&amp;#x27;m not sure why there&amp;#x27;s no official video transcript, but here&amp;#x27;s one that I extracted using MacWhisper. Highlights below: We train and serve Claude now across all four major chip families. That&amp;#x27;s only possible becau…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</guid>
-      <pubDate>Wed, 11 Nov 2026 15:11:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gemini Decisions API</title>
-      <link>https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.35&lt;/p&gt;&lt;p&gt;Gemini Decisions API Google join Jev and OpenAI in the decision model category with &amp;quot;Gemini Decision 1&amp;quot;. This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev&amp;#x27;s term &amp;quot;Noul&amp;quot; for a yes/no question. It&amp;#x27;s priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million. Jev is text (and JSON) only. OpenAI can handle text and images. Gemini Decision 1 is fully multi-model: it covers text, images, audi…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</guid>
-      <pubDate>Wed, 11 Nov 2026 22:03:25 +0000</pubDate>
     </item>
     <item>
       <title>No, AI agents did not discover a previously unknown Maya site</title>
