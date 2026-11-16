@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 05:27:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:30:08 +0000</lastBuildDate>
     <item>
       <title>Open-source AI without Jensen</title>
       <link>https://www.interconnects.ai/p/open-source-ai-without-jensen</link>
@@ -22,6 +22,13 @@
       <description>&lt;p&gt;AI | The Verge · score 0.52&lt;/p&gt;&lt;p&gt;Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</guid>
       <pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple’s new study looks to improve the effectiveness of AI health tools</title>
+      <link>https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.47&lt;/p&gt;&lt;p&gt;Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools</guid>
+      <pubDate>Mon, 16 Nov 2026 01:26:56 +0000</pubDate>
     </item>
     <item>
       <title>datasette-llm 0.1a11</title>
@@ -38,18 +45,11 @@
       <pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
     </item>
     <item>
-      <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
-      <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.43&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
-      <pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>No, AI agents did not discover a previously unknown Maya site</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.35&lt;/p&gt;&lt;p&gt;Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery</guid>
-      <pubDate>Thu, 12 Nov 2026 19:42:40 +0000</pubDate>
+      <title>Understanding Positional Embeddings in Modern LLMs</title>
+      <link>https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</link>
+      <description>&lt;p&gt;Ahead of AI · score 0.38&lt;/p&gt;&lt;p&gt;The Methods Behind How LLMs Represent Token Positions&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</guid>
+      <pubDate>Sun, 15 Nov 2026 12:10:37 +0000</pubDate>
     </item>
     <item>
       <title>Claude’s Duet agent is a little neurotic and surprisingly helpful</title>
@@ -71,6 +71,20 @@
       <description>&lt;p&gt;AI | The Verge · score 0.32&lt;/p&gt;&lt;p&gt;Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn&amp;#x27;t sell, and make the information available through its own site, according to Reuters. The project, called the &amp;quot;World Product Graph,&amp;quot; is meant to make it less likely that shoppers leave Amazon to do their […]&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search</guid>
       <pubDate>Fri, 13 Nov 2026 23:49:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Congress wants to tighten export rules on AI chips after Nvidia spy scandal</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.31&lt;/p&gt;&lt;p&gt;Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</guid>
+      <pubDate>Sun, 15 Nov 2026 19:15:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>datasette-agent 0.6a0</title>
+      <link>https://simonwillison.net/2026/Nov/15/datasette-agent/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.31&lt;/p&gt;&lt;p&gt;Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent , llm , datasette , llms , ai , generative-ai&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/15/datasette-agent/</guid>
+      <pubDate>Sun, 15 Nov 2026 03:49:47 +0000</pubDate>
     </item>
     <item>
       <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
