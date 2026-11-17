@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 05:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:26:51 +0000</lastBuildDate>
     <item>
       <title>Open-source AI without Jensen</title>
       <link>https://www.interconnects.ai/p/open-source-ai-without-jensen</link>
@@ -17,18 +17,25 @@
       <pubDate>Sat, 14 Nov 2026 12:23:15 +0000</pubDate>
     </item>
     <item>
-      <title>The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs</title>
-      <link>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.52&lt;/p&gt;&lt;p&gt;Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</guid>
-      <pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
+      <title>OpenAI wants to stop deepfakes from overwhelming child abuse tiplines</title>
+      <link>https://www.theverge.com/policy/1034527/openai-csam-classifier</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.48&lt;/p&gt;&lt;p&gt;OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it&amp;#x27;s AI-generated. It&amp;#x27;s also offering […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1034527/openai-csam-classifier</guid>
+      <pubDate>Mon, 16 Nov 2026 19:23:45 +0000</pubDate>
     </item>
     <item>
-      <title>Apple’s new study looks to improve the effectiveness of AI health tools</title>
-      <link>https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.47&lt;/p&gt;&lt;p&gt;Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools</guid>
-      <pubDate>Mon, 16 Nov 2026 01:26:56 +0000</pubDate>
+      <title>California sues OpenAI over rogue AI hacking incidents</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.47&lt;/p&gt;&lt;p&gt;California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a &amp;quot;dangerous product without proper oversight,&amp;quot; as reported earlier by Reuters. The lawsuit claims the […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit</guid>
+      <pubDate>Mon, 16 Nov 2026 20:46:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development</title>
+      <link>https://importai.substack.com/p/import-ai-481-ai-sub-contractors</link>
+      <description>&lt;p&gt;Import AI · score 0.46&lt;/p&gt;&lt;p&gt;Plus: CucumberVision!&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://importai.substack.com/p/import-ai-481-ai-sub-contractors</guid>
+      <pubDate>Mon, 16 Nov 2026 14:01:15 +0000</pubDate>
     </item>
     <item>
       <title>datasette-llm 0.1a11</title>
@@ -38,11 +45,11 @@
       <pubDate>Sat, 14 Nov 2026 23:59:28 +0000</pubDate>
     </item>
     <item>
-      <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
-      <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.43&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
-      <pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
+      <title>Drift-Conditioned Structural Replay for Continual Cardiac Ultrasound Segmentation</title>
+      <link>https://arxiv.org/abs/2611.19756v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.42&lt;/p&gt;&lt;p&gt;Conventional experience replay typically applies fixed preservation constraints to historical exemplars, overlooking variations in how learned representations, predictions, and anatomical structures change during sequential training. To address this limitation, we propose Drift-Conditioned Structural Replay Loss (DCSRL), an exemplar-adaptive supervision mechanism that regulates anatomical preservation according to source-referenced knowledge drift. DCSRL operates within a reliability-guided replay framework that selects informative historical exemplars using anatomical content and boundary ch…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.19756v1</guid>
+      <pubDate>Sun, 15 Nov 2026 03:38:01 +0000</pubDate>
     </item>
     <item>
       <title>Understanding Positional Embeddings in Modern LLMs</title>
@@ -52,32 +59,11 @@
       <pubDate>Sun, 15 Nov 2026 12:10:37 +0000</pubDate>
     </item>
     <item>
-      <title>Claude’s Duet agent is a little neurotic and surprisingly helpful</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.35&lt;/p&gt;&lt;p&gt;Normally, the products I test don&amp;#x27;t offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic&amp;#x27;s AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don&amp;#x27;t write code. It&amp;#x27;s been an interesting couple […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</guid>
-      <pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and &amp;quot;eligible US-issued American Express, Chase, Mastercard and Visa cards.&amp;quot; After adding a card […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</guid>
-      <pubDate>Fri, 13 Nov 2026 20:45:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon has a plan to index the world’s online shopping data</title>
-      <link>https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.32&lt;/p&gt;&lt;p&gt;Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn&amp;#x27;t sell, and make the information available through its own site, according to Reuters. The project, called the &amp;quot;World Product Graph,&amp;quot; is meant to make it less likely that shoppers leave Amazon to do their […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search</guid>
-      <pubDate>Fri, 13 Nov 2026 23:49:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congress wants to tighten export rules on AI chips after Nvidia spy scandal</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.31&lt;/p&gt;&lt;p&gt;Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</guid>
-      <pubDate>Sun, 15 Nov 2026 19:15:43 +0000</pubDate>
+      <title>Google Maps can now create trip itineraries for you</title>
+      <link>https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.32&lt;/p&gt;&lt;p&gt;Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. As […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning</guid>
+      <pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>datasette-agent 0.6a0</title>
@@ -85,13 +71,6 @@
       <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.31&lt;/p&gt;&lt;p&gt;Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent , llm , datasette , llms , ai , generative-ai&lt;/p&gt;</description>
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/15/datasette-agent/</guid>
       <pubDate>Sun, 15 Nov 2026 03:49:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
-      <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.30&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
-      <pubDate>Fri, 13 Nov 2026 18:00:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
