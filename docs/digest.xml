@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 05:26:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 05:28:03 +0000</lastBuildDate>
     <item>
-      <title>Open-source AI without Jensen</title>
-      <link>https://www.interconnects.ai/p/open-source-ai-without-jensen</link>
-      <description>&lt;p&gt;Interconnects AI · score 0.59&lt;/p&gt;&lt;p&gt;A decapitation. It’s time to rebuild.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.interconnects.ai/p/open-source-ai-without-jensen</guid>
-      <pubDate>Sat, 14 Nov 2026 12:23:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI wants to stop deepfakes from overwhelming child abuse tiplines</title>
-      <link>https://www.theverge.com/policy/1034527/openai-csam-classifier</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.48&lt;/p&gt;&lt;p&gt;OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it&amp;#x27;s AI-generated. It&amp;#x27;s also offering […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1034527/openai-csam-classifier</guid>
-      <pubDate>Mon, 16 Nov 2026 19:23:45 +0000</pubDate>
+      <title>Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free</title>
+      <link>https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.51&lt;/p&gt;&lt;p&gt;Google is rebranding its Spark AI agent as &amp;quot;Tasks&amp;quot; and making it free to use. The feature, which is powered by Google&amp;#x27;s new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free</guid>
+      <pubDate>Tue, 17 Nov 2026 18:58:01 +0000</pubDate>
     </item>
     <item>
       <title>California sues OpenAI over rogue AI hacking incidents</title>
@@ -31,25 +24,18 @@
       <pubDate>Mon, 16 Nov 2026 20:46:01 +0000</pubDate>
     </item>
     <item>
+      <title>Not even Sam Altman is safe from AI deepfakes on Instagram</title>
+      <link>https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.46&lt;/p&gt;&lt;p&gt;Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta&amp;#x27;s most prominent executives. Earlier in November, Alexandr Wang, Meta&amp;#x27;s chief AI officer, shared a short clip to promote Muse, the company&amp;#x27;s consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake</guid>
+      <pubDate>Tue, 17 Nov 2026 21:00:55 +0000</pubDate>
+    </item>
+    <item>
       <title>Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development</title>
       <link>https://importai.substack.com/p/import-ai-481-ai-sub-contractors</link>
       <description>&lt;p&gt;Import AI · score 0.46&lt;/p&gt;&lt;p&gt;Plus: CucumberVision!&lt;/p&gt;</description>
       <guid isPermaLink="true">https://importai.substack.com/p/import-ai-481-ai-sub-contractors</guid>
       <pubDate>Mon, 16 Nov 2026 14:01:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>datasette-llm 0.1a11</title>
-      <link>https://simonwillison.net/2026/Nov/14/datasette-llm/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.46&lt;/p&gt;&lt;p&gt;Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you&amp;#x27;re running local models with LM Studio or Ollama or llama.cpp (which just hit v1.0.0 ) you can run Datasette via uvx like this: wget https://datasette.io/content.db uvx --with datasette-agent datasette \ --root --secret 1 \ -s plugins.datasette-llm.d…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/14/datasette-llm/</guid>
-      <pubDate>Sat, 14 Nov 2026 23:59:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drift-Conditioned Structural Replay for Continual Cardiac Ultrasound Segmentation</title>
-      <link>https://arxiv.org/abs/2611.19756v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.42&lt;/p&gt;&lt;p&gt;Conventional experience replay typically applies fixed preservation constraints to historical exemplars, overlooking variations in how learned representations, predictions, and anatomical structures change during sequential training. To address this limitation, we propose Drift-Conditioned Structural Replay Loss (DCSRL), an exemplar-adaptive supervision mechanism that regulates anatomical preservation according to source-referenced knowledge drift. DCSRL operates within a reliability-guided replay framework that selects informative historical exemplars using anatomical content and boundary ch…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.19756v1</guid>
-      <pubDate>Sun, 15 Nov 2026 03:38:01 +0000</pubDate>
     </item>
     <item>
       <title>Understanding Positional Embeddings in Modern LLMs</title>
@@ -59,18 +45,25 @@
       <pubDate>Sun, 15 Nov 2026 12:10:37 +0000</pubDate>
     </item>
     <item>
-      <title>Google Maps can now create trip itineraries for you</title>
-      <link>https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.32&lt;/p&gt;&lt;p&gt;Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. As […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning</guid>
-      <pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
+      <title>Satya Nadella says he’s AGI-pilled now</title>
+      <link>https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.37&lt;/p&gt;&lt;p&gt;Microsoft CEO Satya Nadella says he&amp;#x27;s AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. &amp;quot;I am AGI-pilled in the sense that at an economy level, what is the political economy&amp;#x27;s organization around AGI?&amp;quot; he asked at […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now</guid>
+      <pubDate>Tue, 17 Nov 2026 23:41:18 +0000</pubDate>
     </item>
     <item>
-      <title>datasette-agent 0.6a0</title>
-      <link>https://simonwillison.net/2026/Nov/15/datasette-agent/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.31&lt;/p&gt;&lt;p&gt;Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent , llm , datasette , llms , ai , generative-ai&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/15/datasette-agent/</guid>
-      <pubDate>Sun, 15 Nov 2026 03:49:47 +0000</pubDate>
+      <title>External sandboxes for coding agents</title>
+      <link>https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.36&lt;/p&gt;&lt;p&gt;External sandboxes for coding agents I&amp;#x27;ve been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime Radiant , the AI research lab behind Superpowers and other projects . My post on the Prime Radiant blog introduces the external sandbox pattern, where code executed by the agent runs inside a dedicated sandbox while the agent itself lives outside of that sandbox. To demonstrate thi…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/</guid>
+      <pubDate>Tue, 17 Nov 2026 22:52:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>The DOJ says it’s investigating Megaspeed</title>
+      <link>https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.33&lt;/p&gt;&lt;p&gt;The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. &amp;quot;While we don&amp;#x27;t typically comment on ongoing investigations, it is in the public interest to provide the facts and address […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update</guid>
+      <pubDate>Tue, 17 Nov 2026 16:19:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
