@@ -8,27 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 05:27:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 05:28:32 +0000</lastBuildDate>
     <item>
       <title>Apple is hiring engineers to build its own AI agent</title>
       <link>https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.54&lt;/p&gt;&lt;p&gt;Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That&amp;#x27;s according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI | The Verge · score 0.56&lt;/p&gt;&lt;p&gt;Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That&amp;#x27;s according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI […]&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing</guid>
       <pubDate>Thu, 19 Nov 2026 22:31:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rumble-2-Flash: an open 0.5B speech model for 40+ languages</title>
-      <link>https://huggingface.co/blog/rumble-2-flash</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.47&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/rumble-2-flash</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.45&lt;/p&gt;&lt;p&gt;Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it&amp;#x27;s not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure</guid>
-      <pubDate>Thu, 19 Nov 2026 14:25:37 +0000</pubDate>
     </item>
     <item>
       <title>Google is putting AI chats right on the homepage</title>
@@ -45,11 +31,11 @@
       <pubDate>Fri, 20 Nov 2026 02:49:57 +0000</pubDate>
     </item>
     <item>
-      <title>External sandboxes for coding agents</title>
-      <link>https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.36&lt;/p&gt;&lt;p&gt;External sandboxes for coding agents I&amp;#x27;ve been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime Radiant , the AI research lab behind Superpowers and other projects . My post on the Prime Radiant blog introduces the external sandbox pattern, where code executed by the agent runs inside a dedicated sandbox while the agent itself lives outside of that sandbox. To demonstrate thi…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/</guid>
-      <pubDate>Tue, 17 Nov 2026 22:52:29 +0000</pubDate>
+      <title>Trump threatens ‘tremendous tax’ for moving AI data centers outside the US</title>
+      <link>https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.35&lt;/p&gt;&lt;p&gt;President Donald Trump promised to put a &amp;quot;tremendous tax&amp;quot; on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. &amp;quot;We&amp;#x27;re not going to allow our companies to build data centers outside of our country,&amp;quot; Trump said at a […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</guid>
+      <pubDate>Fri, 20 Nov 2026 18:50:19 +0000</pubDate>
     </item>
     <item>
       <title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
@@ -57,13 +43,6 @@
       <description>&lt;p&gt;Hugging Face - Blog · score 0.32&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
       <pubDate>Wed, 18 Nov 2026 15:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>I let Apple’s always-listening AI summarize my life for two weeks</title>
-      <link>https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.31&lt;/p&gt;&lt;p&gt;Was it worth it? I&amp;#x27;ve been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on</guid>
-      <pubDate>Thu, 19 Nov 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
