@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 05:28:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 05:27:40 +0000</lastBuildDate>
     <item>
       <title>Apple is hiring engineers to build its own AI agent</title>
       <link>https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing</link>
@@ -17,11 +17,11 @@
       <pubDate>Thu, 19 Nov 2026 22:31:41 +0000</pubDate>
     </item>
     <item>
-      <title>Google is putting AI chats right on the homepage</title>
-      <link>https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.45&lt;/p&gt;&lt;p&gt;Google is updating its homepage to include AI searches. In a post on X, Google&amp;#x27;s vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats</guid>
-      <pubDate>Thu, 19 Nov 2026 20:05:06 +0000</pubDate>
+      <title>Can Anthropic afford to put safety first?</title>
+      <link>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.42&lt;/p&gt;&lt;p&gt;Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</guid>
+      <pubDate>Sat, 21 Nov 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Token fraud is here and it’s BAD (YouTube)</title>
@@ -36,13 +36,6 @@
       <description>&lt;p&gt;AI | The Verge · score 0.35&lt;/p&gt;&lt;p&gt;President Donald Trump promised to put a &amp;quot;tremendous tax&amp;quot; on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. &amp;quot;We&amp;#x27;re not going to allow our companies to build data centers outside of our country,&amp;quot; Trump said at a […]&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</guid>
       <pubDate>Fri, 20 Nov 2026 18:50:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
-      <link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.32&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
-      <pubDate>Wed, 18 Nov 2026 15:00:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
