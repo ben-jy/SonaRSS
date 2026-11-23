@@ -8,27 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 05:27:40 +0000</lastBuildDate>
-    <item>
-      <title>Apple is hiring engineers to build its own AI agent</title>
-      <link>https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.56&lt;/p&gt;&lt;p&gt;Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That&amp;#x27;s according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing</guid>
-      <pubDate>Thu, 19 Nov 2026 22:31:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Nov 2026 05:30:37 +0000</lastBuildDate>
     <item>
       <title>Can Anthropic afford to put safety first?</title>
       <link>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</link>
       <description>&lt;p&gt;AI | The Verge · score 0.42&lt;/p&gt;&lt;p&gt;Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</guid>
       <pubDate>Sat, 21 Nov 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Token fraud is here and it’s BAD (YouTube)</title>
-      <link>https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.40&lt;/p&gt;&lt;p&gt;Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers &amp;quot;turn an idea into a spec&amp;quot;. The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post ) Claire describes the flood of token fraud she has seen from groups abusing the product&amp;#x27;s free trial, sometimes just to get free AI usage but often to resell tokens or run other commercial enterprises on top of the ChatPRD agent. I am funding a international Roblox and Fortnite map st…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/</guid>
-      <pubDate>Fri, 20 Nov 2026 02:49:57 +0000</pubDate>
     </item>
     <item>
       <title>Trump threatens ‘tremendous tax’ for moving AI data centers outside the US</title>
