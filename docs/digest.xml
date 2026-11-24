@@ -8,20 +8,55 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 05:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:28:05 +0000</lastBuildDate>
     <item>
-      <title>Can Anthropic afford to put safety first?</title>
-      <link>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.42&lt;/p&gt;&lt;p&gt;Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</guid>
-      <pubDate>Sat, 21 Nov 2026 15:00:00 +0000</pubDate>
+      <title>One-shot is Enough: Boosting SAM for Medical Image Segmentation through Structured Information Modeling</title>
+      <link>https://arxiv.org/abs/2611.29278v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.60&lt;/p&gt;&lt;p&gt;In recent years, Foundation models such as the Segment Anything Model (SAM) have demonstrated strong generalization capabilities, but because they are primarily pre-trained on natural images, they perform poorly when faced with medical images. With sufficient labeled medical data, this challenge is somewhat alleviated. However, the difficulty and high cost of acquiring large amounts of labeled data make one-shot learning a highly attractive research paradigm. But within this paradigm, SAM struggles to fully extract its potential multi-granular information, leading to a sharp decline in perfor…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.29278v1</guid>
+      <pubDate>Sun, 22 Nov 2026 06:55:43 +0000</pubDate>
     </item>
     <item>
-      <title>Trump threatens ‘tremendous tax’ for moving AI data centers outside the US</title>
-      <link>https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.35&lt;/p&gt;&lt;p&gt;President Donald Trump promised to put a &amp;quot;tremendous tax&amp;quot; on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. &amp;quot;We&amp;#x27;re not going to allow our companies to build data centers outside of our country,&amp;quot; Trump said at a […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</guid>
-      <pubDate>Fri, 20 Nov 2026 18:50:19 +0000</pubDate>
+      <title>US-Seg: One Reference for Universal Ultrasound Segmentation</title>
+      <link>https://arxiv.org/abs/2611.28740v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.58&lt;/p&gt;&lt;p&gt;Recent ultrasound foundation models have demonstrated strong feature extraction capabilities across organs, tasks, and imaging conditions. However, converting these representations into segmentation still requires finetuning on annotated target data. To reduce reliance on task-specific finetuning, existing universal ultrasound segmentation methods typically adopt prompt-based target specification, mainly through spatial prompts in SAM-style models or task prompts exemplified by MOFO. Yet, directly segmenting targets unseen during training still requires repeated per-image interaction or targe…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.28740v1</guid>
+      <pubDate>Sat, 21 Nov 2026 11:21:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to build and maintain an agentic evaluation</title>
+      <link>https://huggingface.co/blog/agentic-evals</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.47&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/agentic-evals</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Segment Anything In-Context via Visual Demonstrations</title>
+      <link>https://arxiv.org/abs/2611.29896v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.43&lt;/p&gt;&lt;p&gt;We present the Segment Anything Model via Visual Demonstrations (SAYD), a foundation model for in-context segmentation. Given visual demos comprising prompt images and their segmentation masks, SAYD segments coherent regions (e.g., objects or their parts) in a query image by establishing visual correspondences between the prompts and the query. SAYD generalizes to previously-unseen segmentation tasks, including those requiring tacit visual knowledge or involving concepts that are difficult to articulate unambiguously in language. We train SAYD on 12 public datasets originally curated for pano…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.29896v1</guid>
+      <pubDate>Mon, 23 Nov 2026 01:51:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI data centers throw another wrench into chaotic UN climate talks</title>
+      <link>https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.36&lt;/p&gt;&lt;p&gt;The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It&amp;#x27;s a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit</guid>
+      <pubDate>Mon, 23 Nov 2026 21:09:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Jensen Huang ended up as Nvidia CEO again</title>
+      <link>https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.33&lt;/p&gt;&lt;p&gt;The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what&amp;#x27;s come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been &amp;quot;unfaithful&amp;quot; to his wife […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return</guid>
+      <pubDate>Mon, 23 Nov 2026 19:57:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome to elite impunity, Jensen Huang</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.31&lt;/p&gt;&lt;p&gt;I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a &amp;quot;free market&amp;quot; is might […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang</guid>
+      <pubDate>Mon, 23 Nov 2026 22:09:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
