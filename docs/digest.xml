@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 05:28:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:28:07 +0000</lastBuildDate>
     <item>
       <title>One-shot is Enough: Boosting SAM for Medical Image Segmentation through Structured Information Modeling</title>
       <link>https://arxiv.org/abs/2611.29278v1</link>
@@ -17,11 +17,11 @@
       <pubDate>Sun, 22 Nov 2026 06:55:43 +0000</pubDate>
     </item>
     <item>
-      <title>US-Seg: One Reference for Universal Ultrasound Segmentation</title>
-      <link>https://arxiv.org/abs/2611.28740v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.58&lt;/p&gt;&lt;p&gt;Recent ultrasound foundation models have demonstrated strong feature extraction capabilities across organs, tasks, and imaging conditions. However, converting these representations into segmentation still requires finetuning on annotated target data. To reduce reliance on task-specific finetuning, existing universal ultrasound segmentation methods typically adopt prompt-based target specification, mainly through spatial prompts in SAM-style models or task prompts exemplified by MOFO. Yet, directly segmenting targets unseen during training still requires repeated per-image interaction or targe…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.28740v1</guid>
-      <pubDate>Sat, 21 Nov 2026 11:21:29 +0000</pubDate>
+      <title>Foundation Model and Radiomics Distance Scores for Post-Hoc Segmentation Failure Detection</title>
+      <link>https://arxiv.org/abs/2611.30582v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.52&lt;/p&gt;&lt;p&gt;Medical image segmentation models can fail silently when clinical data differs from training data. Deployed models rarely ship with quality control, and are often black boxes. Prior methods that work in this post-hoc failure detection setting still need a separate regression or segmentation model, registration, or access to model internals. We instead propose two failure scores based on the Mahalanobis distance to a labeled reference set. The first uses radiomic shape features of the predicted mask. The second uses frozen foundation model (FM) features, made mask-aware by overlaying the mask…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.30582v1</guid>
+      <pubDate>Mon, 23 Nov 2026 12:24:36 +0000</pubDate>
     </item>
     <item>
       <title>How to build and maintain an agentic evaluation</title>
@@ -38,6 +38,27 @@
       <pubDate>Mon, 23 Nov 2026 01:51:09 +0000</pubDate>
     </item>
     <item>
+      <title>GeoSurge: Geometry-Grounded Multimodal Reasoning for Auditable Liver Resection Planning</title>
+      <link>https://arxiv.org/abs/2611.32657v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.41&lt;/p&gt;&lt;p&gt;Surgical resection planning centers on generating executable resection surfaces from anatomical evidence and operative constraints. Medical multimodal foundation models enable anatomical understanding, and segmentation models predict resection regions, but neither translates these capabilities into explicitly constrained, executable resection surfaces. We present GeoSurge, an anatomy-grounded framework that combines mask-derived metrics with structure-aware point-cloud tokens to generate executable, editable resection surfaces. To make resection geometry learnable and editable, GeoSurge maps…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.32657v1</guid>
+      <pubDate>Tue, 24 Nov 2026 14:12:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jensen Huang deepfakes are the hot new AI slop</title>
+      <link>https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.38&lt;/p&gt;&lt;p&gt;Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes</guid>
+      <pubDate>Tue, 24 Nov 2026 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The New York Times warns photographers not to update Photoshop over AI features</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.36&lt;/p&gt;&lt;p&gt;The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI &amp;quot;in ways that may not be apparent to users.&amp;quot; In an email seen by The Verge and posted on Threads, two of the Times&amp;#x27; photography leaders, Meaghan Looram and Josh […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</guid>
+      <pubDate>Tue, 24 Nov 2026 16:09:23 +0000</pubDate>
+    </item>
+    <item>
       <title>AI data centers throw another wrench into chaotic UN climate talks</title>
       <link>https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit</link>
       <description>&lt;p&gt;AI | The Verge · score 0.36&lt;/p&gt;&lt;p&gt;The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It&amp;#x27;s a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees […]&lt;/p&gt;</description>
@@ -45,11 +66,18 @@
       <pubDate>Mon, 23 Nov 2026 21:09:37 +0000</pubDate>
     </item>
     <item>
-      <title>How Jensen Huang ended up as Nvidia CEO again</title>
-      <link>https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.33&lt;/p&gt;&lt;p&gt;The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what&amp;#x27;s come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been &amp;quot;unfaithful&amp;quot; to his wife […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return</guid>
-      <pubDate>Mon, 23 Nov 2026 19:57:18 +0000</pubDate>
+      <title>Tidal will start banning AI-generated music next month</title>
+      <link>https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban</guid>
+      <pubDate>Tue, 24 Nov 2026 17:17:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Three LLM inflection points in twelve months</title>
+      <link>https://simonwillison.net/2026/Nov/24/llm-inflection-points/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.32&lt;/p&gt;&lt;p&gt;I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here&amp;#x27;s the video of the talk. In this post I&amp;#x27;m going to pull out the major inflection point theme and interrogate it more deeply. Coding agents in November 2025 Today, November 24th 2026, is the one year anniversary of the release of Claude Opus 4.5 . With hindsight, this was a consequential model. In the Opus 4.5 announcement, Anthropic said: Testers noted that Claude O…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/24/llm-inflection-points/</guid>
+      <pubDate>Tue, 24 Nov 2026 23:02:07 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to elite impunity, Jensen Huang</title>
