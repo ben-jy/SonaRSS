@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 05:28:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:28:01 +0000</lastBuildDate>
     <item>
-      <title>One-shot is Enough: Boosting SAM for Medical Image Segmentation through Structured Information Modeling</title>
-      <link>https://arxiv.org/abs/2611.29278v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.60&lt;/p&gt;&lt;p&gt;In recent years, Foundation models such as the Segment Anything Model (SAM) have demonstrated strong generalization capabilities, but because they are primarily pre-trained on natural images, they perform poorly when faced with medical images. With sufficient labeled medical data, this challenge is somewhat alleviated. However, the difficulty and high cost of acquiring large amounts of labeled data make one-shot learning a highly attractive research paradigm. But within this paradigm, SAM struggles to fully extract its potential multi-granular information, leading to a sharp decline in perfor…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.29278v1</guid>
-      <pubDate>Sun, 22 Nov 2026 06:55:43 +0000</pubDate>
+      <title>Where scientists draw the line on AI agents</title>
+      <link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.59&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</guid>
+      <pubDate>Wed, 25 Nov 2026 18:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Foundation Model and Radiomics Distance Scores for Post-Hoc Segmentation Failure Detection</title>
@@ -24,18 +24,32 @@
       <pubDate>Mon, 23 Nov 2026 12:24:36 +0000</pubDate>
     </item>
     <item>
-      <title>How to build and maintain an agentic evaluation</title>
-      <link>https://huggingface.co/blog/agentic-evals</link>
-      <description>&lt;p&gt;Hugging Face - Blog · score 0.47&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/agentic-evals</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future</title>
+      <link>https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.45&lt;/p&gt;&lt;p&gt;Last year, Google filed a patent for a system called My Channel that&amp;#x27;s designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</guid>
+      <pubDate>Wed, 25 Nov 2026 21:51:26 +0000</pubDate>
     </item>
     <item>
-      <title>Segment Anything In-Context via Visual Demonstrations</title>
-      <link>https://arxiv.org/abs/2611.29896v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.43&lt;/p&gt;&lt;p&gt;We present the Segment Anything Model via Visual Demonstrations (SAYD), a foundation model for in-context segmentation. Given visual demos comprising prompt images and their segmentation masks, SAYD segments coherent regions (e.g., objects or their parts) in a query image by establishing visual correspondences between the prompts and the query. SAYD generalizes to previously-unseen segmentation tasks, including those requiring tacit visual knowledge or involving concepts that are difficult to articulate unambiguously in language. We train SAYD on 12 public datasets originally curated for pano…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.29896v1</guid>
-      <pubDate>Mon, 23 Nov 2026 01:51:09 +0000</pubDate>
+      <title>TAT-Det: A Dataset for Testicular Appendage Torsion Detection and Segmentation in Ultrasound Images</title>
+      <link>https://arxiv.org/abs/2611.33940v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.43&lt;/p&gt;&lt;p&gt;Background: Testicular appendage torsion (TAT) is the leading cause of acute scrotal pain in prepubertal children. Yet, its diagnosis remains challenging due to nonspecific clinical manifestations and the absence of standardized datasets for pediatric acute scrotal emergencies. Results: We present TAT-Det, an expert-annotated ultrasound dataset specifically designed for TAT. TAT-Det comprises 2,600 ultrasound images from 1,203 patients collected at the Children&amp;#x27;s Hospital, Zhejiang University School of Medicine. Each TAT-positive image is accompanied by lesion-level bounding boxes for detecti…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.33940v1</guid>
+      <pubDate>Wed, 25 Nov 2026 07:57:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space</title>
+      <link>https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.42&lt;/p&gt;&lt;p&gt;In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company&amp;#x27;s &amp;quot;Starmind&amp;quot; initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers</guid>
+      <pubDate>Wed, 25 Nov 2026 17:44:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Continuous Foundation-Guided Pseudo-Label Weighting for Breast Ultrasound Domain Adaptation</title>
+      <link>https://arxiv.org/abs/2611.33843v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.42&lt;/p&gt;&lt;p&gt;Breast ultrasound segmentation models often generalize poorly across scanners, institutions, and patient populations. We investigate continuous foundation-guided pseudo-label weighting for unsupervised domain adaptation (UDA). An exponential-moving-average (EMA) teacher generates target-domain pseudo-labels, while a frozen ultrasound segmentation model (AutoSAMUS) modulates their contribution using a bounded weight that combines the prior&amp;#x27;s certainty with its probabilistic agreement with the teacher. In contrast to our earlier selective BiRP rule, the proposed formulation supervises every tar…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.33843v1</guid>
+      <pubDate>Wed, 25 Nov 2026 06:13:50 +0000</pubDate>
     </item>
     <item>
       <title>GeoSurge: Geometry-Grounded Multimodal Reasoning for Auditable Liver Resection Planning</title>
@@ -43,6 +57,13 @@
       <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.41&lt;/p&gt;&lt;p&gt;Surgical resection planning centers on generating executable resection surfaces from anatomical evidence and operative constraints. Medical multimodal foundation models enable anatomical understanding, and segmentation models predict resection regions, but neither translates these capabilities into explicitly constrained, executable resection surfaces. We present GeoSurge, an anatomy-grounded framework that combines mask-derived metrics with structure-aware point-cloud tokens to generate executable, editable resection surfaces. To make resection geometry learnable and editable, GeoSurge maps…&lt;/p&gt;</description>
       <guid isPermaLink="true">https://arxiv.org/abs/2611.32657v1</guid>
       <pubDate>Tue, 24 Nov 2026 14:12:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frame geometry, fascicle extrapolation and leaderboard overfitting in muscle ultrasound</title>
+      <link>https://arxiv.org/abs/2611.33539v1</link>
+      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.39&lt;/p&gt;&lt;p&gt;Automated readings of pennation angle, fascicle length and muscle thickness from B-mode ultrasound depend on the geometry of the stored frame and on how fascicles that leave the image are extended, and challenge entries add settings chosen on a small public leaderboard. This study measures all three in one entry of the UMUD Challenge, which scored 309 frames from six screen layouts, 103 on a public and 206 on a private leaderboard. The pipeline applies layout-specific values of scale and pixel aspect, resamples each frame to square pixels, segments aponeuroses and fascicle fragments with U-Ne…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.33539v1</guid>
+      <pubDate>Tue, 24 Nov 2026 23:30:28 +0000</pubDate>
     </item>
     <item>
       <title>Jensen Huang deepfakes are the hot new AI slop</title>
@@ -59,11 +80,18 @@
       <pubDate>Tue, 24 Nov 2026 16:09:23 +0000</pubDate>
     </item>
     <item>
-      <title>AI data centers throw another wrench into chaotic UN climate talks</title>
-      <link>https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.36&lt;/p&gt;&lt;p&gt;The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It&amp;#x27;s a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit</guid>
-      <pubDate>Mon, 23 Nov 2026 21:09:37 +0000</pubDate>
+      <title>Quoting Scott Aaronson</title>
+      <link>https://simonwillison.net/2026/Nov/25/scott-aaronson/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.35&lt;/p&gt;&lt;p&gt;It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or Galileo first training his telescope on the stars. That might give you some idea of how our resolution into the complexity-theoretic universe, and the whole universe of mathematical truth beyond it, has now improved. — Scott Aaronson Tags: mathematics , llms , ai , generative-ai&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/25/scott-aaronson/</guid>
+      <pubDate>Wed, 25 Nov 2026 23:26:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon is reportedly in talks to end Muse AI shopping block</title>
+      <link>https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;Amazon has held talks about letting Meta&amp;#x27;s Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon&amp;#x27;s block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant&amp;#x27;s advertising revenue. As reported by Fortune, […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions</guid>
+      <pubDate>Wed, 25 Nov 2026 14:12:33 +0000</pubDate>
     </item>
     <item>
       <title>Tidal will start banning AI-generated music next month</title>
@@ -73,18 +101,18 @@
       <pubDate>Tue, 24 Nov 2026 17:17:09 +0000</pubDate>
     </item>
     <item>
+      <title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
+      <link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.34&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</guid>
+      <pubDate>Thu, 26 Nov 2026 05:05:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Three LLM inflection points in twelve months</title>
       <link>https://simonwillison.net/2026/Nov/24/llm-inflection-points/</link>
       <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.32&lt;/p&gt;&lt;p&gt;I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here&amp;#x27;s the video of the talk. In this post I&amp;#x27;m going to pull out the major inflection point theme and interrogate it more deeply. Coding agents in November 2025 Today, November 24th 2026, is the one year anniversary of the release of Claude Opus 4.5 . With hindsight, this was a consequential model. In the Opus 4.5 announcement, Anthropic said: Testers noted that Claude O…&lt;/p&gt;</description>
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/24/llm-inflection-points/</guid>
       <pubDate>Tue, 24 Nov 2026 23:02:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Welcome to elite impunity, Jensen Huang</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.31&lt;/p&gt;&lt;p&gt;I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a &amp;quot;free market&amp;quot; is might […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang</guid>
-      <pubDate>Mon, 23 Nov 2026 22:09:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
