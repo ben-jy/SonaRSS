@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:28:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:28:39 +0000</lastBuildDate>
     <item>
       <title>Where scientists draw the line on AI agents</title>
       <link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
@@ -17,11 +17,11 @@
       <pubDate>Wed, 25 Nov 2026 18:52:55 +0000</pubDate>
     </item>
     <item>
-      <title>Foundation Model and Radiomics Distance Scores for Post-Hoc Segmentation Failure Detection</title>
-      <link>https://arxiv.org/abs/2611.30582v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.52&lt;/p&gt;&lt;p&gt;Medical image segmentation models can fail silently when clinical data differs from training data. Deployed models rarely ship with quality control, and are often black boxes. Prior methods that work in this post-hoc failure detection setting still need a separate regression or segmentation model, registration, or access to model internals. We instead propose two failure scores based on the Mahalanobis distance to a labeled reference set. The first uses radiomic shape features of the predicted mask. The second uses frozen foundation model (FM) features, made mask-aware by overlaying the mask…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.30582v1</guid>
-      <pubDate>Mon, 23 Nov 2026 12:24:36 +0000</pubDate>
+      <title>Quoting Jack Despain Zhou</title>
+      <link>https://simonwillison.net/2026/Nov/26/jack-despain-zhou/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.46&lt;/p&gt;&lt;p&gt;Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attached to ostensibly serious institutions who want to publish things attached to their reputations and mine, and I see Claude . — Jack Despain Zhou , Spitting in the Face of Glaude Tags: ai-misuse , claude , generative-ai , ai , llms&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/26/jack-despain-zhou/</guid>
+      <pubDate>Thu, 26 Nov 2026 15:09:31 +0000</pubDate>
     </item>
     <item>
       <title>Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future</title>
@@ -59,6 +59,13 @@
       <pubDate>Tue, 24 Nov 2026 14:12:05 +0000</pubDate>
     </item>
     <item>
+      <title>Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</title>
+      <link>https://huggingface.co/blog/training-swarms</link>
+      <description>&lt;p&gt;Hugging Face - Blog · score 0.39&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/training-swarms</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Frame geometry, fascicle extrapolation and leaderboard overfitting in muscle ultrasound</title>
       <link>https://arxiv.org/abs/2611.33539v1</link>
       <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.39&lt;/p&gt;&lt;p&gt;Automated readings of pennation angle, fascicle length and muscle thickness from B-mode ultrasound depend on the geometry of the stored frame and on how fascicles that leave the image are extended, and challenge entries add settings chosen on a small public leaderboard. This study measures all three in one entry of the UMUD Challenge, which scored 309 frames from six screen layouts, 103 on a public and 206 on a private leaderboard. The pipeline applies layout-specific values of scale and pixel aspect, resamples each frame to square pixels, segments aponeuroses and fascicle fragments with U-Ne…&lt;/p&gt;</description>
@@ -71,13 +78,6 @@
       <description>&lt;p&gt;AI | The Verge · score 0.38&lt;/p&gt;&lt;p&gt;Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes</guid>
       <pubDate>Tue, 24 Nov 2026 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The New York Times warns photographers not to update Photoshop over AI features</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.36&lt;/p&gt;&lt;p&gt;The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI &amp;quot;in ways that may not be apparent to users.&amp;quot; In an email seen by The Verge and posted on Threads, two of the Times&amp;#x27; photography leaders, Meaghan Looram and Josh […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</guid>
-      <pubDate>Tue, 24 Nov 2026 16:09:23 +0000</pubDate>
     </item>
     <item>
       <title>Quoting Scott Aaronson</title>
@@ -108,11 +108,11 @@
       <pubDate>Thu, 26 Nov 2026 05:05:36 +0000</pubDate>
     </item>
     <item>
-      <title>Three LLM inflection points in twelve months</title>
-      <link>https://simonwillison.net/2026/Nov/24/llm-inflection-points/</link>
-      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.32&lt;/p&gt;&lt;p&gt;I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here&amp;#x27;s the video of the talk. In this post I&amp;#x27;m going to pull out the major inflection point theme and interrogate it more deeply. Coding agents in November 2025 Today, November 24th 2026, is the one year anniversary of the release of Claude Opus 4.5 . With hindsight, this was a consequential model. In the Opus 4.5 announcement, Anthropic said: Testers noted that Claude O…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/24/llm-inflection-points/</guid>
-      <pubDate>Tue, 24 Nov 2026 23:02:07 +0000</pubDate>
+      <title>42 state AGs are trying to stop Character.AI from selling users’ chats</title>
+      <link>https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats</link>
+      <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off &amp;quot;the private chat histories of more than 21 million U.S. accounts - […]&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats</guid>
+      <pubDate>Thu, 26 Nov 2026 09:54:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
