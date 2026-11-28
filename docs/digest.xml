@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 05:28:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:27:21 +0000</lastBuildDate>
     <item>
       <title>Where scientists draw the line on AI agents</title>
       <link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
@@ -52,32 +52,11 @@
       <pubDate>Wed, 25 Nov 2026 06:13:50 +0000</pubDate>
     </item>
     <item>
-      <title>GeoSurge: Geometry-Grounded Multimodal Reasoning for Auditable Liver Resection Planning</title>
-      <link>https://arxiv.org/abs/2611.32657v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:&amp;quot;foundation model&amp;quot; AND all:medical AND all:segmen… · score 0.41&lt;/p&gt;&lt;p&gt;Surgical resection planning centers on generating executable resection surfaces from anatomical evidence and operative constraints. Medical multimodal foundation models enable anatomical understanding, and segmentation models predict resection regions, but neither translates these capabilities into explicitly constrained, executable resection surfaces. We present GeoSurge, an anatomy-grounded framework that combines mask-derived metrics with structure-aware point-cloud tokens to generate executable, editable resection surfaces. To make resection geometry learnable and editable, GeoSurge maps…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.32657v1</guid>
-      <pubDate>Tue, 24 Nov 2026 14:12:05 +0000</pubDate>
-    </item>
-    <item>
       <title>Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</title>
       <link>https://huggingface.co/blog/training-swarms</link>
       <description>&lt;p&gt;Hugging Face - Blog · score 0.39&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://huggingface.co/blog/training-swarms</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Frame geometry, fascicle extrapolation and leaderboard overfitting in muscle ultrasound</title>
-      <link>https://arxiv.org/abs/2611.33539v1</link>
-      <description>&lt;p&gt;arXiv Query: search_query=all:ultrasound AND all:segmentation&amp;amp;id_list=&amp;amp;start=0&amp;amp;… · score 0.39&lt;/p&gt;&lt;p&gt;Automated readings of pennation angle, fascicle length and muscle thickness from B-mode ultrasound depend on the geometry of the stored frame and on how fascicles that leave the image are extended, and challenge entries add settings chosen on a small public leaderboard. This study measures all three in one entry of the UMUD Challenge, which scored 309 frames from six screen layouts, 103 on a public and 206 on a private leaderboard. The pipeline applies layout-specific values of scale and pixel aspect, resamples each frame to square pixels, segments aponeuroses and fascicle fragments with U-Ne…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.33539v1</guid>
-      <pubDate>Tue, 24 Nov 2026 23:30:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jensen Huang deepfakes are the hot new AI slop</title>
-      <link>https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.38&lt;/p&gt;&lt;p&gt;Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes</guid>
-      <pubDate>Tue, 24 Nov 2026 16:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Quoting Scott Aaronson</title>
@@ -94,13 +73,6 @@
       <pubDate>Wed, 25 Nov 2026 14:12:33 +0000</pubDate>
     </item>
     <item>
-      <title>Tidal will start banning AI-generated music next month</title>
-      <link>https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban</link>
-      <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 […]&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban</guid>
-      <pubDate>Tue, 24 Nov 2026 17:17:09 +0000</pubDate>
-    </item>
-    <item>
       <title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
       <link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
       <description>&lt;p&gt;Hugging Face - Blog · score 0.34&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
@@ -113,6 +85,20 @@
       <description>&lt;p&gt;AI | The Verge · score 0.34&lt;/p&gt;&lt;p&gt;A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off &amp;quot;the private chat histories of more than 21 million U.S. accounts - […]&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats</guid>
       <pubDate>Thu, 26 Nov 2026 09:54:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>The New York Times warns photographers not to update Photoshop over AI features</title>
+      <link>https://simonwillison.net/2026/Nov/26/hn-50651685/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.32&lt;/p&gt;&lt;p&gt;My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I had a stain on my shirt and they said absolutely not - they present photographs as they were taken, with cropping and balancing applied but no edits beyond that. He did spend a bunch of time trying to find the best possible natural lighting for the shots he wanted. The photo at the top of https://www.nytimes.com/2026/02/…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/26/hn-50651685/</guid>
+      <pubDate>Thu, 26 Nov 2026 05:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>datasette-charts 0.3a0</title>
+      <link>https://simonwillison.net/2026/Nov/25/datasette-charts/</link>
+      <description>&lt;p&gt;Simon Willison&amp;#x27;s Weblog · score 0.31&lt;/p&gt;&lt;p&gt;Release: datasette-charts 0.3a0 I added chart annotations to datasette-charts ! You can now render a chart and then annotate it with lines, shaded areas, labels, or a combination of the three. A chart with annotations looks like this: Here&amp;#x27;s that same chart in Datasette Lite , where you can tweak the annotations using the chart builder UI: If you also install Datasette Agent the agent can build annotated charts for you. Here&amp;#x27;s what I got on the agent.datasette.io demo for this prompt: Show a chart comparing Simon&amp;#x27;s tagged content about LLMs with his tagged content about Datasette, with annota…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/25/datasette-charts/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:16:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
